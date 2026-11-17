@@ -19,6 +19,21 @@
 [ext_resource type="Texture2D" uid="uid://c76bgcmi556v2" path="res://assets/Buildings/Building6.png" id="17_mf420"]
 [ext_resource type="Texture2D" uid="uid://d2j8y1dfv056b" path="res://assets/Buildings/Building7.png" id="18_kjtyf"]
 
+[sub_resource type="TileMapPattern" id="TileMapPattern_d13p2"]
+tile_data = PackedInt32Array(0, 589824, 9)
+
+[sub_resource type="TileMapPattern" id="TileMapPattern_gqp6y"]
+tile_data = PackedInt32Array(0, 262144, 7)
+
+[sub_resource type="TileMapPattern" id="TileMapPattern_tgcfw"]
+tile_data = PackedInt32Array(0, 3, 0)
+
+[sub_resource type="TileMapPattern" id="TileMapPattern_6bs8o"]
+tile_data = PackedInt32Array(0, 13, 0)
+
+[sub_resource type="TileMapPattern" id="TileMapPattern_lgl4e"]
+tile_data = PackedInt32Array(0, 65536, 7)
+
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_c8o6a"]
 texture = ExtResource("1_be1ca")
 2:1/next_alternative_id = 2
@@ -1610,3 +1625,8 @@ sources/14 = SubResource("TileSetAtlasSource_l8o1y")
 sources/15 = SubResource("TileSetAtlasSource_kaw63")
 sources/16 = SubResource("TileSetAtlasSource_7i8e2")
 sources/17 = SubResource("TileSetAtlasSource_gjh4p")
+pattern_0 = SubResource("TileMapPattern_d13p2")
+pattern_1 = SubResource("TileMapPattern_gqp6y")
+pattern_2 = SubResource("TileMapPattern_tgcfw")
+pattern_3 = SubResource("TileMapPattern_6bs8o")
+pattern_4 = SubResource("TileMapPattern_lgl4e")
