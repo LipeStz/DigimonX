@@ -1,4 +1,4 @@
-[gd_scene load_steps=31 format=3]
+[gd_scene load_steps=29 format=3]
 
 [ext_resource type="Script" path="res://scripts/world/maison.gd" id="script_maison"]
 [ext_resource type="Script" path="res://scripts/world/batiment_apparence.gd" id="script_apparence"]
@@ -14,7 +14,6 @@
 [ext_resource type="Texture2D" path="res://assets/Buildings/House_Hay_1.png" id="texture_hay1"]
 [ext_resource type="Texture2D" path="res://assets/Buildings/House_Hay_2.png" id="texture_hay2"]
 [ext_resource type="Texture2D" path="res://assets/Buildings/House_Hay_3.png" id="texture_hay3"]
-[ext_resource type="Texture2D" path="res://assets/Buildings/House_Hay_4_Purple.png" id="texture_hay4_purple"]
 
 [sub_resource type="Resource" id="BatimentApparence_0"]
 script = ExtResource("script_apparence")
@@ -24,9 +23,9 @@ region = Rect2(144, 144, 128, 80)
 
 [sub_resource type="Resource" id="BatimentApparence_1"]
 script = ExtResource("script_apparence")
-nom = "Maison verte (atlas)"
+nom = "Etal bleu et blanc"
 texture = ExtResource("texture_atlas")
-region = Rect2(16, 16, 80, 80)
+region = Rect2(193, 67, 14, 12)
 
 [sub_resource type="Resource" id="BatimentApparence_2"]
 script = ExtResource("script_apparence")
@@ -89,14 +88,9 @@ script = ExtResource("script_apparence")
 nom = "House_Hay_3"
 texture = ExtResource("texture_hay3")
 
-[sub_resource type="Resource" id="BatimentApparence_14"]
-script = ExtResource("script_apparence")
-nom = "House_Hay_4_Purple"
-texture = ExtResource("texture_hay4_purple")
-
 [node name="Maison" type="Node2D"]
 script = ExtResource("script_maison")
-apparences = Array[ExtResource("script_apparence")]([SubResource("BatimentApparence_0"), SubResource("BatimentApparence_1"), SubResource("BatimentApparence_2"), SubResource("BatimentApparence_3"), SubResource("BatimentApparence_4"), SubResource("BatimentApparence_5"), SubResource("BatimentApparence_6"), SubResource("BatimentApparence_7"), SubResource("BatimentApparence_8"), SubResource("BatimentApparence_9"), SubResource("BatimentApparence_10"), SubResource("BatimentApparence_11"), SubResource("BatimentApparence_12"), SubResource("BatimentApparence_13"), SubResource("BatimentApparence_14")])
+apparences = Array[ExtResource("script_apparence")]([SubResource("BatimentApparence_0"), SubResource("BatimentApparence_1"), SubResource("BatimentApparence_2"), SubResource("BatimentApparence_3"), SubResource("BatimentApparence_4"), SubResource("BatimentApparence_5"), SubResource("BatimentApparence_6"), SubResource("BatimentApparence_7"), SubResource("BatimentApparence_8"), SubResource("BatimentApparence_9"), SubResource("BatimentApparence_10"), SubResource("BatimentApparence_11"), SubResource("BatimentApparence_12"), SubResource("BatimentApparence_13")])
 index_apparence = 0
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
