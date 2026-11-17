@@ -1,13 +1,17 @@
 @tool
 extends Node2D
 
-@export var regions: Array[Rect2] = []
-@export var index_apparence: int = 0:
+@export var apparences: Array[BatimentApparence] = []:
 	set(valeur):
-		if regions.is_empty():
-			index_apparence = 0
-		else:
-			index_apparence = clampi(valeur, 0, regions.size() - 1)
+		apparences = valeur
+		_index_apparence = clampi(_index_apparence, 0, maxi(apparences.size() - 1, 0))
+		_appliquer_apparence()
+
+@export var index_apparence: int = 0:
+	get:
+		return _index_apparence
+	set(valeur):
+		_index_apparence = clampi(valeur, 0, maxi(apparences.size() - 1, 0))
 		_appliquer_apparence()
 
 @export var zone_size: Vector2 = Vector2(32.0, 96.0)
@@ -15,6 +19,7 @@ extends Node2D
 @export var alpha_translucide: float = 0.5
 @export var duree_transition: float = 0.2
 
+var _index_apparence: int = 0
 var _zone: Area2D
 var _transition: Tween
 
@@ -42,12 +47,27 @@ func _ready() -> void:
 
 
 func _appliquer_apparence() -> void:
-	if not is_node_ready() or regions.is_empty():
-		return
 	var sprite := get_node_or_null("Sprite2D") as Sprite2D
-	if sprite != null:
-		sprite.region_enabled = true
-		sprite.region_rect = regions[clampi(index_apparence, 0, regions.size() - 1)]
+	if sprite == null:
+		return
+
+	if apparences.is_empty():
+		sprite.texture = null
+		sprite.region_enabled = false
+		sprite.region_rect = Rect2()
+		return
+
+	var index := clampi(_index_apparence, 0, apparences.size() - 1)
+	var apparence := apparences[index]
+	if apparence == null:
+		sprite.texture = null
+		sprite.region_enabled = false
+		sprite.region_rect = Rect2()
+		return
+
+	sprite.texture = apparence.texture
+	sprite.region_enabled = apparence.region.has_area()
+	sprite.region_rect = apparence.region
 
 
 func _a_entree_du_corps(corps: Node2D) -> void:
