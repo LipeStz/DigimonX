@@ -5,7 +5,7 @@ const COLOR_NEON    := Color("#19d3ff")
 const COLOR_ORANGE  := Color("#ff9a3c")
 const COLOR_GRID    := Color(0.1, 0.8, 1.0, 0.12)
 const PROFILE_PICKER_PATH := "res://scripts/profile_picker.gd"
-const GAME_SCENE := "res://scenes/FileCity_TownSquare.tscn"
+const GAME_SCENE := "res://scenes/zones/zone1/FileCity_TownSquare.tscn"
 const NEW_GAME_SCENE := "res://scenes/creation/CharacterCreation.tscn"
 
 # Les références sont récupérées prudemment : la scène peut être incomplète
@@ -239,7 +239,7 @@ func _on_quit() -> void:
 # --- Transition ---
 func _change_scene(path: String) -> void:
 	if not ResourceLoader.exists(path):
-		push_warning("res://scenes/FileCity_TownSquare.tscn" + path)
+		push_warning("res://scenes/zones/zone1/FileCity_TownSquare.tscn" + path)
 		return
 	if not is_instance_valid(fade):
 		get_tree().change_scene_to_file(path)

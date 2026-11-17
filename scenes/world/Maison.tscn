@@ -96,4 +96,4 @@ index_apparence = 1
 [node name="Sprite2D" type="Sprite2D" parent="." unique_id=449270152]
 texture = ExtResource("texture_atlas")
 region_enabled = true
-region_rect = Rect2(193, 67, 14, 12)
+region_rect = Rect2(16, 112, 48, 48)
