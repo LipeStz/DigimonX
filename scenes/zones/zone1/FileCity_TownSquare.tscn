@@ -633,7 +633,7 @@ tile_set = ExtResource("2_ol72e")
 [node name="House" type="TileMapLayer" parent="." unique_id=1275297280]
 z_index = 3
 texture_filter = 1
-tile_map_data = PackedByteArray("AAADAAEAAAAJAAkAAAAlABMAAAAEAAcAAAAZABQAAAAJAAkAAAARAAkAAAANAAEAAAAWAAkAAAANAAEAAAAdAAIAAAAEAAcAAAAeAAYAAAAMAAUAAAAQAAwAAAABAAcAAAA=")
+tile_map_data = PackedByteArray("AAADAAEAAAAJAAkAAAAlABMAAAAEAAcAAAAZABQAAAAJAAkAAAARAAkAAAANAAEAAAAWAAkAAAANAAEAAAAeAAYAAAAMAAUAAAAQAAwAAAABAAcAAAAdAAIAAAAEAAcAAAA=")
 tile_set = ExtResource("2_ol72e")
 
 [node name="Decor" type="TileMapLayer" parent="." unique_id=436509760]
@@ -658,6 +658,7 @@ tile_set = ExtResource("2_ol72e")
 script = ExtResource("2")
 
 [node name="Joueur" parent="." unique_id=1118560447 instance=ExtResource("4_wm4i5")]
+position = Vector2(322, 188)
 
 [node name="SolidCollisions" type="Node2D" parent="." unique_id=250767834]
 
