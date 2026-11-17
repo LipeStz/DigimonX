@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://bs5raiyywufwh"]
 
-[ext_resource type="Script" uid="uid://d2dq8acksafwl" path="res://scripts/world/batiment_apparence.gd" id="script_apparence"]
+[ext_resource type="Script" uid="uid://d2q8acksafwl" path="res://scripts/world/batiment_apparence.gd" id="script_apparence"]
 [ext_resource type="Script" uid="uid://bn42ssqbb3hm5" path="res://scripts/world/maison.gd" id="script_maison"]
 [ext_resource type="Texture2D" uid="uid://c8jvb5btoclvm" path="res://assets/Pixel 16 v2 village free/Pixel 16 v2 village free.png" id="texture_atlas"]
 [ext_resource type="Texture2D" uid="uid://dassb1obhp50c" path="res://assets/Buildings/House_1_Wood_Base_Blue.png" id="texture_blue_house"]
@@ -25,7 +25,7 @@ region = Rect2(144, 144, 128, 80)
 script = ExtResource("script_apparence")
 nom = "Etal bleu et blanc"
 texture = ExtResource("texture_atlas")
-region = Rect2(193, 67, 14, 12)
+region = Rect2(16, 112, 48, 48)
 
 [sub_resource type="Resource" id="BatimentApparence_2"]
 script = ExtResource("script_apparence")
