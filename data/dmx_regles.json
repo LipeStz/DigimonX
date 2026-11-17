@@ -1,0 +1,279 @@
+{
+ "source": "Manuel Digital Monster X, humulos.com/digimon/dmx/manual (reformulé)",
+ "stades": [
+  {
+   "stade": "Œuf",
+   "duree_avant_evolution": "1 minute",
+   "niveau_max": null,
+   "heure_coucher": null,
+   "pv_base": null
+  },
+  {
+   "stade": "I",
+   "nom": "Bébé 1",
+   "duree_avant_evolution": "10 minutes",
+   "niveau_max": 1,
+   "heure_coucher": null,
+   "pv_base": null
+  },
+  {
+   "stade": "II",
+   "nom": "Bébé 2",
+   "duree_avant_evolution": "12 heures",
+   "niveau_max": 3,
+   "heure_coucher": null,
+   "pv_base": 10
+  },
+  {
+   "stade": "III",
+   "nom": "Enfant",
+   "duree_avant_evolution": "24 heures",
+   "niveau_max": 4,
+   "heure_coucher": "21:00",
+   "pv_base": 10
+  },
+  {
+   "stade": "IV",
+   "nom": "Adulte",
+   "duree_avant_evolution": "32 heures",
+   "niveau_max": 6,
+   "heure_coucher": "22:00",
+   "pv_base": 12
+  },
+  {
+   "stade": "V",
+   "nom": "Parfait",
+   "duree_avant_evolution": "40 heures",
+   "niveau_max": 8,
+   "heure_coucher": "23:00",
+   "pv_base": 15
+  },
+  {
+   "stade": "VI",
+   "nom": "Ultime",
+   "duree_avant_evolution": "48 heures",
+   "niveau_max": 10,
+   "heure_coucher": "00:00",
+   "pv_base": 18
+  },
+  {
+   "stade": "VI+",
+   "nom": "Super Ultime",
+   "duree_avant_evolution": "aucune (fin)",
+   "niveau_max": 10,
+   "heure_coucher": "00:00",
+   "pv_base": 20
+  },
+  {
+   "stade": "+VI+",
+   "nom": "+VI+",
+   "duree_avant_evolution": "aucune (fin)",
+   "niveau_max": 10,
+   "heure_coucher": "00:00",
+   "pv_base": null
+  }
+ ],
+ "evolution": {
+  "criteres": "Stades II et III : erreurs de soin + effort. Stades IV, V et VI : erreurs de soin + niveau.",
+  "garantie": "Évolution jusqu'au stade V garantie si on ne dépasse pas 20 erreurs, maladies ou blessures. Au stade VI et VI+, l'évolution peut échouer si aucune condition n'est remplie dans les 40 h (VI) ou 48 h (VI+).",
+  "gel": "Le temps passé à dormir compte pour l'évolution ; le temps passé gelé (frigo) ne compte pas.",
+  "remise_a_zero": "À chaque évolution, seules les stats de combat sont gardées : erreurs de soin, effort, niveau, monstres de stade VI vaincus, maladies et blessures repartent à 0.",
+  "oeuf_a_traits": "Garder le monstre en vie 48 h après sa dernière évolution donne un œuf à traits : niveau minimum 3 au lieu de 1.",
+  "erreurs_stade_VI": "Aux stades VI et VI+, plus de 5 erreurs de soin tuent le monstre au moment de l'évolution ; aux stades III et IV, 4 erreurs ou plus comptent comme « 4+ » si la règle l'indique.",
+  "regle_vide": "Une statistique qui n'est pas citée dans une condition n'a aucune importance pour cette évolution.",
+  "alternatives": "Quand une évolution a plusieurs lignes de conditions, une seule suffit ; une ligne sans zone citée marche quelle que soit la progression.",
+  "autre_condition": "Si aucune règle spécifique n'est remplie, le monstre prend la voie « autres conditions » (souvent la même qu'avec beaucoup d'erreurs de soin).",
+  "zones": "Une évolution débloquée en quête reste débloquée pour tous les monstres suivants ; il faut terminer la zone seulement si la règle précise « en tant que » ce monstre (ex. Diablomon X, zone 44, sur XE/XF).",
+  "jogress": "Jesmon GX (XE/XF) : combat connecté entre Gankoomon X (XE) et Jesmon X (XF). Un Jesmon X des versions XA/XB ne marche pas.",
+  "oeuf_kera": "XE/XF : après la mort du premier monstre et la zone 45 terminée, garder un monstre Parfait ou plus en vie plus de 48 h après sa dernière évolution ; au démarrage de l'œuf suivant, répondre OUI pour obtenir l'œuf Kera (Kuramon → Tsumemon → Keramon X → Diablomon X).",
+  "Beelzebumon_X_XC_XD": "Débloqué après 200 victoires cumulées (puis battre le prochain boss), ou en battant un XA/XB en combat connecté.",
+  "rencontres_speciales": "XAI à 6 ou 7 au réveil : possible rencontre spéciale (Minervamon X sur XA, Lord Knightmon X sur XB, Demon X sur XC, Lucemon X sur XD, Dukemon X sur XE, Omegamon X sur XF), généralement 5 à 10 min après le tirage ; il faut la battre pour débloquer cette évolution."
+ },
+ "niveaux": [
+  {
+   "niveau": 1,
+   "exp": 0,
+   "bonus": null
+  },
+  {
+   "niveau": 2,
+   "exp": 50,
+   "bonus": "PV +2"
+  },
+  {
+   "niveau": 3,
+   "exp": 150,
+   "bonus": "Puissance +10"
+  },
+  {
+   "niveau": 4,
+   "exp": 500,
+   "bonus": "Attaque +1"
+  },
+  {
+   "niveau": 5,
+   "exp": 800,
+   "bonus": "PV +2"
+  },
+  {
+   "niveau": 6,
+   "exp": 1000,
+   "bonus": "PV +2, Puissance +10"
+  },
+  {
+   "niveau": 7,
+   "exp": 1500,
+   "bonus": "Attaque +1"
+  },
+  {
+   "niveau": 8,
+   "exp": 2000,
+   "bonus": "PV +2"
+  },
+  {
+   "niveau": 9,
+   "exp": 3000,
+   "bonus": "Puissance +10"
+  },
+  {
+   "niveau": 10,
+   "exp": 5000,
+   "bonus": "PV +2"
+  }
+ ],
+ "attributs": {
+  "Vaccin": "fort contre Virus",
+  "Virus": "fort contre Data",
+  "Data": "fort contre Vaccin",
+  "Free": "aucun avantage ni désavantage",
+  "bonus_avantage": "équivaut à +32 de puissance"
+ },
+ "puissance": {
+  "base": "entre 4 et 220 selon l'espèce",
+  "jauge_force_pleine": "+16 sur XA/XB, +15 sur XC à XF",
+  "niveaux": "+10 aux niveaux 3, 6 et 9",
+  "maximum": 255,
+  "combat": "Plus ta puissance dépasse celle de l'adversaire, plus tes attaques ont de chances de toucher."
+ },
+ "jauges": {
+  "faim": "2 cœurs au départ, plus à chaque évolution ; à 0, impossible de combattre ; baisse avec le temps et les combats",
+  "force": "2 cœurs au départ ; jauge pleine = bonus de puissance ; se remplit par l'entraînement ou les protéines",
+  "effort": "+1 cœur tous les 4 entraînements, réussis ou non",
+  "poids": "à 99 Go le monstre tombe malade ; manger augmente, s'entraîner et combattre diminuent"
+ },
+ "nourriture": [
+  {
+   "nom": "Viande",
+   "effet": "+½ cœur de faim",
+   "poids_go": 1
+  },
+  {
+   "nom": "Protéine",
+   "effet": "+½ cœur de force",
+   "poids_go": 2
+  },
+  {
+   "nom": "Grosse viande (Filling Meat)",
+   "effet": "faim complète, ralentit la baisse suivante",
+   "poids_go": 4
+  },
+  {
+   "nom": "Grosse protéine (Big Protein)",
+   "effet": "force complète, ralentit la baisse suivante",
+   "poids_go": 2
+  }
+ ],
+ "objets_de_quete": [
+  {
+   "nom": "Power Board",
+   "effet": "puissance augmentée dans la prochaine zone"
+  },
+  {
+   "nom": "HP Rom",
+   "effet": "+2 PV dans la prochaine zone"
+  },
+  {
+   "nom": "AP Chip",
+   "effet": "+2 attaque dans la prochaine zone"
+  },
+  {
+   "nom": "Seven Switch",
+   "effet": "tous les lancers de dé XAI valent 7 dans la prochaine zone"
+  },
+  {
+   "nom": "Jumper Gate",
+   "effet": "va directement au boss de la prochaine zone"
+  },
+  {
+   "nom": "EXP Coat",
+   "effet": "double l'expérience (pas sur XA/XB)"
+  },
+  {
+   "regle": "Chaque objet de quête ajoute 8 Go ; un seul à la fois ; l'effet dure toute la zone."
+  }
+ ],
+ "entrainement": {
+  "effort": "0,25 point d'effort par entraînement",
+  "poids": "au moins -1 Go par entraînement",
+  "normal": {
+   "Mauvais": "force +0, -1 Go",
+   "Bon": "force +0,5, -2 Go",
+   "Super": "force +1, -4 Go",
+   "Excellent": "force +1, -4 Go"
+  },
+  "excite": {
+   "Mauvais": "force +0, -1 Go",
+   "Bon": "force +1, -2 Go",
+   "Super": "force +2, -6 Go",
+   "Excellent": "force +4, -8 Go"
+  },
+  "attaques": "5 types d'attaque par monstre ; plus la flèche s'arrête haut, plus l'attaque est forte ; la zone haute s'élargit avec le niveau"
+ },
+ "appels": {
+  "causes": [
+   "faim à 0",
+   "force à 0",
+   "monstre fatigué qui veut dormir"
+  ],
+  "delai": "10 minutes pour une jauge vide, 30 minutes pour le coucher ; si le signal s'éteint sans soin = 1 erreur de soin",
+  "details": "Faim et force vides en même temps = 2 erreurs. Caca, blessure, maladie et réveil d'un monstre fatigué ne comptent pas.",
+  "reset": "Les erreurs de soin repartent à 0 à chaque évolution"
+ },
+ "sommeil": {
+  "reveil": "07:00",
+  "regle": "Un monstre fatigué qu'on ne couche pas = 1 erreur de soin ; il grandit aussi en dormant ; gelé, il ne grandit plus"
+ },
+ "sante": {
+  "caca": "8 tas accumulés = maladie",
+  "blessure": "perdre un combat",
+  "soin": "icône bandage (2 types : points = malade, crâne = blessé)",
+  "morts": [
+   "20 maladies dans une même forme",
+   "20 blessures dans une même forme",
+   "20 erreurs de soin dans une même forme",
+   "5 erreurs de soin après 40 heures dans une même forme",
+   "rester malade ou blessé 6 heures",
+   "laisser la faim ou la force à 0 pendant 6 heures"
+  ],
+  "sauvetage": "Appuyer 100 fois sur B quand le monstre agonise le ressuscite"
+ },
+ "mode_quete": {
+  "zones": "45 zones plus la zone SP (46 au total) ; XA/XB : 30 zones plus SP",
+  "regles": "Vaincre tous les monstres d'une zone sans perdre, sinon on recommence la zone ; le boss débloque son évolution s'il est jouable sur l'appareil, sinon on gagne un objet",
+  "fatigue": "Un combat de 4 manches ou plus fait perdre ½ cœur de faim ; faim à 0 en pleine zone = abandon",
+  "repos": "Certaines zones longues ont une halte pour nourrir le monstre",
+  "des_XAI": {
+   "description": "Dé à 7 faces lancé la première fois qu'on entre en quête chaque jour",
+   "1-3": "combats plus durs, plus d'expérience",
+   "4-6": "combats plus faciles, moins d'expérience",
+   "7": "combats plus faciles ET plus d'expérience"
+  },
+  "zone_SP": "Débloquée en combat connecté « X » entre XA et XB, XC et XD, ou XE et XF (pas en mode « Autre »). Elle débloque Dukemon X (XA/XB), Leviamon X (XC/XD) ou Alphamon: Ouryuken (XE/XF).",
+  "boss": "Battre un boss jouable sur ton appareil débloque son évolution ; sinon (ou s'il est déjà débloqué), tu gagnes un objet."
+ },
+ "connexion": {
+  "X": "combat comme en quête contre un autre Digital Monster X",
+  "Autre": "système de combat simplifié des V-Pets originaux, sans force, puissance ni attribut"
+ },
+ "temps": "Le monstre a un rythme quotidien ; on peut régler l'horloge de l'appareil sans accélérer la croissance"
+}

@@ -1,0 +1,8 @@
+[
+  {"id": "XA", "version": 1, "name": "Version 1A", "start_digimon": "Puttimon", "nb_arenas": 30, "evolutions_file": "dmx_evolutions_xa_xb.json", "enemies_file": "dmx_ennemis_xa.json", "difficulty": "facile"},
+  {"id": "XB", "version": 1, "name": "Version 1B", "start_digimon": "Puttimon", "nb_arenas": 30, "evolutions_file": "dmx_evolutions_xa_xb.json", "enemies_file": "dmx_ennemis_xb.json", "difficulty": "facile"},
+  {"id": "XC", "version": 2, "name": "Version 2A", "start_digimon": "Puttimon", "nb_arenas": 46, "evolutions_file": "dmx_evolutions_xc_xd.json", "enemies_file": "dmx_ennemis_xc.json", "difficulty": "moyenne"},
+  {"id": "XD", "version": 2, "name": "Version 2B", "start_digimon": "Puttimon", "nb_arenas": 46, "evolutions_file": "dmx_evolutions_xc_xd.json", "enemies_file": "dmx_ennemis_xd.json", "difficulty": "moyenne"},
+  {"id": "XE", "version": 3, "name": "Version 3A", "start_digimon": "Puttimon", "nb_arenas": 46, "evolutions_file": "dmx_evolutions_xe_xf.json", "enemies_file": "dmx_ennemis_xe.json", "difficulty": "difficile"},
+  {"id": "XF", "version": 3, "name": "Version 3B", "start_digimon": "Puttimon", "nb_arenas": 46, "evolutions_file": "dmx_evolutions_xe_xf.json", "enemies_file": "dmx_ennemis_xf.json", "difficulty": "difficile"}
+]   

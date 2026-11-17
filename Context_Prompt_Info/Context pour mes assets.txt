@@ -1,0 +1,14 @@
+la structure de la map (connexion entre map, position des map) on garde tel quel (comme dans Digimon World PS1, map de digimon world ps1)
+le context du jeu pour le style de map : je crée un jeu en pixel art top-down 16px inspiré des V-PET Digimon X,
+pokémon GB, Digimon World ps1, Untitled Monster Game (UMG, ancien W0rld.io).
+il y aura des quêtes, des digimons sauvage, des marchand, un peu de farm, des mobs que seul le joueur pourra frappé, des PNJset d'autre idées mais on fait une chose après l'autre.
+on valide puis on avance.
+
+référence : 
+- https://www.grindosaur.com/en/games/digimon-world/areas
+- https://gamefaqs.gamespot.com/ps/913684-digimon-world/map/15878-digimon-world-map
+- https://www.reddit.com/r/digimon/comments/kpxaz8/digimon_world_1_complete_map_includes_digimon/?tl=fr
+- https://digimon-world-psx.fandom.com/wiki/World_Map
+- https://digiworldwiki.com/en/maps/
+- https://humulos.com/digimon/dmx/list/
+- https://farm-animal.itch.io/

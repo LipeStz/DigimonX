@@ -1,0 +1,24 @@
+[gd_scene format=3 uid="uid://bpuktdro6pwhd"]
+
+[ext_resource type="Script" uid="uid://c7j1xhfrlwyv6" path="res://scripts/Joueur.gd" id="1_r36ky"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_ftsmx"]
+size = Vector2(2, 3)
+
+[node name="Joueur" type="CharacterBody2D" unique_id=1118560447]
+z_index = 6
+script = ExtResource("1_r36ky")
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=1521039936]
+zoom = Vector2(2, 2)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1433714863]
+position = Vector2(0, -1.5)
+shape = SubResource("RectangleShape2D_ftsmx")
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=587116521]
+
+[node name="LabelNom" type="Label" parent="." unique_id=1875189231]
+offset_top = -30.0
+offset_right = 40.0
+offset_bottom = -7.0

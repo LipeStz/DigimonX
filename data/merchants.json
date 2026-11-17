@@ -1,0 +1,17 @@
+[
+  {"id": "m01", "name": "Marchand de la Plaine",   "zone": 1,  "item_1": "meat",         "item_2": "protein"},
+  {"id": "m02", "name": "Marchand du Lac",         "zone": 3,  "item_1": "hp_rom",       "item_2": "meat"},
+  {"id": "m03", "name": "Marchand des Collines",   "zone": 5,  "item_1": "ap_chip",      "item_2": "protein"},
+  {"id": "m04", "name": "Marchand de la Forêt",    "zone": 7,  "item_1": "power_board",  "item_2": "filling_meat"},
+  {"id": "m05", "name": "Marchand des Cavernes",   "zone": 9,  "item_1": "hp_rom",       "item_2": "big_protein"},
+  {"id": "m06", "name": "Marchand du Désert",      "zone": 11, "item_1": "exp_coat",     "item_2": "meat"},
+  {"id": "m07", "name": "Marchand de la Montagne", "zone": 13, "item_1": "ap_chip",      "item_2": "power_board"},
+  {"id": "m08", "name": "Marchand du Givre",       "zone": 15, "item_1": "seven_switch", "item_2": "filling_meat"},
+  {"id": "m09", "name": "Marchand des Ruines",     "zone": 17, "item_1": "jumper_gate",  "item_2": "protein"},
+  {"id": "m10", "name": "Marchand du Volcan",      "zone": 19, "item_1": "hp_rom",       "item_2": "exp_coat"},
+  {"id": "m11", "name": "Marchand des Marais",     "zone": 21, "item_1": "ap_chip",      "item_2": "big_protein"},
+  {"id": "m12", "name": "Marchand du Ciel",        "zone": 23, "item_1": "power_board",  "item_2": "jumper_gate"},
+  {"id": "m13", "name": "Marchand des Abysses",    "zone": 25, "item_1": "seven_switch", "item_2": "hp_rom"},
+  {"id": "m14", "name": "Marchand de la Tour",     "zone": 27, "item_1": "exp_coat",     "item_2": "ap_chip"},
+  {"id": "m15", "name": "Marchand du Portail",     "zone": 29, "item_1": "filling_meat", "item_2": "big_protein"}
+]   

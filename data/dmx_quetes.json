@@ -1,0 +1,2548 @@
+[
+ {
+  "serie": "XA/XB",
+  "zone": "1",
+  "rencontres": [
+   "Tokomon X",
+   "Herissmon"
+  ],
+  "rencontres_images": [
+   "toko_x",
+   "heriss"
+  ],
+  "boss": "Sistermon Blanc",
+  "boss_image": "sister_b",
+  "prix": "Power Board",
+  "boss_jouable_sur": "aucun (non jouable sur XA/XB)"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "2",
+  "rencontres": [
+   "Plotmon X",
+   "Gabumon X"
+  ],
+  "rencontres_images": [
+   "plot_x",
+   "gabu_x"
+  ],
+  "boss": "Renamon X",
+  "boss_image": "rena_x",
+  "prix": "Big Protein",
+  "boss_jouable_sur": "XA"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "3",
+  "rencontres": [
+   "Gomamon X",
+   "Agumon X"
+  ],
+  "rencontres_images": [
+   "goma_x",
+   "agu_x"
+  ],
+  "boss": "Dracomon X",
+  "boss_image": "draco_x",
+  "prix": "Filling Meat",
+  "boss_jouable_sur": "XB"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "4",
+  "rencontres": [
+   "Gabumon X",
+   "Renamon X"
+  ],
+  "rencontres_images": [
+   "gabu_x",
+   "rena_x"
+  ],
+  "boss": "Rhinomon X",
+  "boss_image": "rhino_x",
+  "prix": "HP Rom",
+  "boss_jouable_sur": "XB"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "5",
+  "rencontres": [
+   "Plotmon X",
+   "Nefertimon X"
+  ],
+  "rencontres_images": [
+   "plot_x",
+   "neferti_x"
+  ],
+  "boss": "Leomon X",
+  "boss_image": "leo_x",
+  "prix": "AP Chip",
+  "boss_jouable_sur": "XA"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "6",
+  "rencontres": [
+   "Sistermon Blanc",
+   "Sistermon Noir"
+  ],
+  "rencontres_images": [
+   "sister_b",
+   "sister_n"
+  ],
+  "boss": "Sistermon Ciel",
+  "boss_image": "sister_c",
+  "prix": "Seven Switch",
+  "boss_jouable_sur": "aucun (non jouable sur XA/XB)"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "7",
+  "rencontres": [
+   "Agumon X",
+   "Tobucatmon"
+  ],
+  "rencontres_images": [
+   "agu_x",
+   "tobucat"
+  ],
+  "boss": "Growmon X",
+  "boss_image": "grow_x",
+  "prix": "AP Chip",
+  "boss_jouable_sur": "XB"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "8",
+  "rencontres": [
+   "Dracomon X",
+   "Kuwagamon X"
+  ],
+  "rencontres_images": [
+   "draco_x",
+   "kuwaga_x"
+  ],
+  "boss": "Tyranomon X",
+  "boss_image": "tyrano_x",
+  "prix": "HP Rom",
+  "boss_jouable_sur": "XA"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "9",
+  "rencontres": [
+   "Herissmon",
+   "Tobucatmon"
+  ],
+  "rencontres_images": [
+   "heriss",
+   "tobucat"
+  ],
+  "boss": "Yatagaramon",
+  "boss_image": "yatagara",
+  "prix": "Jumper Gate",
+  "boss_jouable_sur": "aucun (non jouable sur XA/XB)"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "10",
+  "rencontres": [
+   "Gabumon X",
+   "Renamon X",
+   "Leomon X",
+   "repos",
+   "Nefertimon X"
+  ],
+  "rencontres_images": [
+   "gabu_x",
+   "rena_x",
+   "leo_x",
+   "rest",
+   "neferti_x"
+  ],
+  "boss": "Were Garurumon X",
+  "boss_image": "weregaruru_x",
+  "prix": "HP Rom",
+  "boss_jouable_sur": "XB"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "11",
+  "rencontres": [
+   "Agumon X",
+   "Dracomon X",
+   "Kuwagamon X",
+   "repos",
+   "Seadramon X"
+  ],
+  "rencontres_images": [
+   "agu_x",
+   "draco_x",
+   "kuwaga_x",
+   "rest",
+   "seadra_x"
+  ],
+  "boss": "Metal Greymon X",
+  "boss_image": "metalgrey_va_x",
+  "prix": "Power Board",
+  "boss_jouable_sur": "XA"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "12",
+  "rencontres": [
+   "Sangloupmon",
+   "Rhinomon X",
+   "Nefertimon X",
+   "repos",
+   "Skull Baluchimon"
+  ],
+  "rencontres_images": [
+   "sangloup",
+   "rhino_x",
+   "neferti_x",
+   "rest",
+   "skullbaluchi"
+  ],
+  "boss": "Cerberumon X",
+  "boss_image": "cerberu_x",
+  "prix": "AP Chip",
+  "boss_jouable_sur": "XA"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "13",
+  "rencontres": [
+   "Leomon X",
+   "Growmon X",
+   "Seadramon X",
+   "repos",
+   "Metal Greymon X"
+  ],
+  "rencontres_images": [
+   "leo_x",
+   "grow_x",
+   "seadra_x",
+   "rest",
+   "metalgrey_va_x"
+  ],
+  "boss": "Megalo Growmon X",
+  "boss_image": "megalogrow_x",
+  "prix": "Power Board",
+  "boss_jouable_sur": "XB"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "14",
+  "rencontres": [
+   "Dracomon X",
+   "Tyranomon X",
+   "Mametyramon",
+   "repos",
+   "Triceramon X"
+  ],
+  "rencontres_images": [
+   "draco_x",
+   "tyrano_x",
+   "mametyra",
+   "rest",
+   "tricera_x"
+  ],
+  "boss": "Metal Tyranomon X",
+  "boss_image": "metaltyrano_x",
+  "prix": "Filling Meat",
+  "boss_jouable_sur": "XA et XB"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "15",
+  "rencontres": [
+   "Tyranomon X",
+   "Mametyramon",
+   "Metal Tyranomon X",
+   "repos",
+   "Megalo Growmon X"
+  ],
+  "rencontres_images": [
+   "tyrano_x",
+   "mametyra",
+   "metaltyrano_x",
+   "rest",
+   "megalogrow_x"
+  ],
+  "boss": "Megidramon X",
+  "boss_image": "megidra_x",
+  "prix": "Big Protein",
+  "boss_jouable_sur": "XB"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "16",
+  "rencontres": [
+   "Rhinomon X",
+   "Nefertimon X",
+   "Mammon X",
+   "repos",
+   "Cerberumon X"
+  ],
+  "rencontres_images": [
+   "rhino_x",
+   "neferti_x",
+   "mam_x",
+   "rest",
+   "cerberu_x"
+  ],
+  "boss": "Metal Garurumon X",
+  "boss_image": "metalgaruru_x",
+  "prix": "AP Chip",
+  "boss_jouable_sur": "XB"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "17",
+  "rencontres": [
+   "Mametyramon",
+   "Metal Tyranomon X",
+   "Triceramon X",
+   "repos",
+   "Metal Greymon X"
+  ],
+  "rencontres_images": [
+   "mametyra",
+   "metaltyrano_x",
+   "tricera_x",
+   "rest",
+   "metalgrey_va_x"
+  ],
+  "boss": "War Greymon X",
+  "boss_image": "wargrey_x",
+  "prix": "HP Rom",
+  "boss_jouable_sur": "XA"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "18",
+  "rencontres": [
+   "Sistermon Noir",
+   "Cho-Hakkaimon",
+   "Lilimon X",
+   "repos",
+   "Rosemon X"
+  ],
+  "rencontres_images": [
+   "sister_n",
+   "chohakkai",
+   "lili_x",
+   "rest",
+   "rose_x"
+  ],
+  "boss": "Rafflesimon",
+  "boss_image": "rafflesi",
+  "prix": "Power Board",
+  "boss_jouable_sur": "aucun (non jouable sur XA/XB)"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "19",
+  "rencontres": [
+   "Leomon X",
+   "Cerberumon X",
+   "Megidramon X",
+   "repos",
+   "Duftmon X"
+  ],
+  "rencontres_images": [
+   "leo_x",
+   "cerberu_x",
+   "megidra_x",
+   "rest",
+   "duft_x"
+  ],
+  "boss": "Jesmon X",
+  "boss_image": "jes_x",
+  "prix": "Jumper Gate",
+  "boss_jouable_sur": "XA et XB"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "20",
+  "rencontres": [
+   "Tobucatmon",
+   "Rhinomon X",
+   "Leomon X",
+   "Mammon X",
+   "repos",
+   "Metal Garurumon X",
+   "Ulforce V-dramon X"
+  ],
+  "rencontres_images": [
+   "tobucat",
+   "rhino_x",
+   "leo_x",
+   "mam_x",
+   "rest",
+   "metalgaruru_x",
+   "ulforcevdra_x"
+  ],
+  "boss": "Sleipmon X",
+  "boss_image": "sleip_x",
+  "prix": "Seven Switch",
+  "boss_jouable_sur": "XA"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "21",
+  "rencontres": [
+   "Sistermon Ciel",
+   "Cho-Hakkaimon",
+   "Lilimon X",
+   "Rafflesimon",
+   "repos",
+   "Rosemon X",
+   "Lilithmon"
+  ],
+  "rencontres_images": [
+   "sister_c",
+   "chohakkai",
+   "lili_x",
+   "rafflesi",
+   "rest",
+   "rose_x",
+   "lilith"
+  ],
+  "boss": "Sakuyamon X",
+  "boss_image": "sakuya_x",
+  "prix": "Power Board",
+  "boss_jouable_sur": "XA"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "22",
+  "rencontres": [
+   "Mammon X",
+   "Skull Baluchimon",
+   "Metal Tyranomon X",
+   "Megidramon X",
+   "repos",
+   "War Greymon X",
+   "Dynasmon X"
+  ],
+  "rencontres_images": [
+   "mam_x",
+   "skullbaluchi",
+   "metaltyrano_x",
+   "megidra_x",
+   "rest",
+   "wargrey_x",
+   "dynas_x"
+  ],
+  "boss": "Craniummon X",
+  "boss_image": "cranium_x",
+  "prix": "Seven Switch",
+  "boss_jouable_sur": "XB"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "23",
+  "rencontres": [
+   "Lucemon: Falldown Mode",
+   "Lilithmon",
+   "Barbamon",
+   "Leviamon",
+   "repos",
+   "Demon",
+   "Belphemon: Rage Mode"
+  ],
+  "rencontres_images": [
+   "luce_f",
+   "lilith",
+   "barba",
+   "levia",
+   "rest",
+   "de",
+   "belphe_r"
+  ],
+  "boss": "Beelzebumon X",
+  "boss_image": "beelzebu_x",
+  "prix": "AP Chip",
+  "boss_jouable_sur": "XA"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "24",
+  "rencontres": [
+   "Sistermon Noir",
+   "Valdurmon",
+   "Sakuyamon X",
+   "repos",
+   "Beelzebumon X"
+  ],
+  "rencontres_images": [
+   "sister_n",
+   "valdur",
+   "sakuya_x",
+   "rest",
+   "beelzebu_x"
+  ],
+  "boss": "Beel Starmon X",
+  "boss_image": "beelstar_x",
+  "prix": "HP Rom",
+  "boss_jouable_sur": "XB"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "25",
+  "rencontres": [
+   "Platinum Numemon",
+   "Ouryumon"
+  ],
+  "rencontres_images": [
+   "platinumnume",
+   "ouryu"
+  ],
+  "boss": "Alphamon",
+  "boss_image": "alpha",
+  "prix": "Filling Meat",
+  "boss_jouable_sur": "aucun (non jouable sur XA/XB)"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "26",
+  "rencontres": [
+   "Metal Garurumon X",
+   "War Greymon X"
+  ],
+  "rencontres_images": [
+   "metalgaruru_x",
+   "wargrey_x"
+  ],
+  "boss": "Omegamon X",
+  "boss_image": "omega_x",
+  "prix": "Power Board",
+  "boss_jouable_sur": "XA et XB"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "27",
+  "rencontres": [
+   "Renamon X",
+   "Nefertimon X",
+   "Lilimon X",
+   "Rosemon X",
+   "repos",
+   "Beel Starmon X",
+   "Sakuyamon X"
+  ],
+  "rencontres_images": [
+   "rena_x",
+   "neferti_x",
+   "lili_x",
+   "rose_x",
+   "rest",
+   "beelstar_x",
+   "sakuya_x"
+  ],
+  "boss": "Minervamon X",
+  "boss_image": "minerva_x",
+  "prix": "Seven Switch",
+  "boss_jouable_sur": "aucun (non jouable sur XA/XB)"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "28",
+  "rencontres": [
+   "Duftmon X",
+   "Ulforce V-dramon X",
+   "Dynasmon X",
+   "repos",
+   "Magnamon X"
+  ],
+  "rencontres_images": [
+   "duft_x",
+   "ulforcevdra_x",
+   "dynas_x",
+   "rest",
+   "magna_x"
+  ],
+  "boss": "Lord Knightmon X",
+  "boss_image": "lordknight_x",
+  "prix": "Jumper Gate",
+  "boss_jouable_sur": "aucun (non jouable sur XA/XB)"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "29",
+  "rencontres": [
+   "Belial Vamdemon",
+   "Barbamon",
+   "Voltobautamon",
+   "repos",
+   "Apocalymon"
+  ],
+  "rencontres_images": [
+   "belialvamde",
+   "barba",
+   "voltobauta",
+   "rest",
+   "apocaly"
+  ],
+  "boss": "Diablomon X",
+  "boss_image": "diablo_x",
+  "prix": "Filling Meat",
+  "boss_jouable_sur": "XA et XB"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "30",
+  "rencontres": [
+   "Lucemon: Falldown Mode",
+   "Platinum Numemon",
+   "Belial Vamdemon",
+   "Megidramon X",
+   "repos",
+   "Beelzebumon X",
+   "Diablomon X"
+  ],
+  "rencontres_images": [
+   "luce_f",
+   "platinumnume",
+   "belialvamde",
+   "megidra_x",
+   "rest",
+   "beelzebu_x",
+   "diablo_x"
+  ],
+  "boss": "Grand Dracumon",
+  "boss_image": "granddracu",
+  "prix": "Seven Switch",
+  "boss_jouable_sur": "aucun (non jouable sur XA/XB)"
+ },
+ {
+  "serie": "XA/XB",
+  "zone": "SP",
+  "rencontres": [
+   "Craniummon X",
+   "Sleipmon X",
+   "Jesmon X",
+   "Alphamon",
+   "repos",
+   "Omegamon X",
+   "Lord Knightmon X"
+  ],
+  "rencontres_images": [
+   "cranium_x",
+   "sleip_x",
+   "jes_x",
+   "alpha",
+   "rest",
+   "omega_x",
+   "lordknight_x"
+  ],
+  "boss": "Dukemon X",
+  "boss_image": "duke_x",
+  "prix": "Jumper Gate",
+  "boss_jouable_sur": "XA et XB"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "1",
+  "rencontres": [
+   "Tokomon X",
+   "Yaamon"
+  ],
+  "rencontres_images": [
+   "toko_x",
+   "yaa"
+  ],
+  "boss": "Agumon X",
+  "boss_image": "agu_x",
+  "prix": "Big Protein",
+  "boss_jouable_sur": "aucun (non jouable sur XC/XD)"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "2",
+  "rencontres": [
+   "Gabumon X",
+   "Plotmon X"
+  ],
+  "rencontres_images": [
+   "gabu_x",
+   "plot_x"
+  ],
+  "boss": "Palmon X",
+  "boss_image": "pal_x",
+  "prix": "Filling Meat",
+  "boss_jouable_sur": "aucun (non jouable sur XC/XD)"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "3",
+  "rencontres": [
+   "Gomamon X",
+   "Otamamon X"
+  ],
+  "rencontres_images": [
+   "goma_x",
+   "otama_x"
+  ],
+  "boss": "Dracomon X",
+  "boss_image": "draco_x",
+  "prix": "HP Rom",
+  "boss_jouable_sur": "aucun (non jouable sur XC/XD)"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "4",
+  "rencontres": [
+   "Kokuwamon X",
+   "Agumon X"
+  ],
+  "rencontres_images": [
+   "kokuwa_x",
+   "agu_x"
+  ],
+  "boss": "Agumon (Black) X",
+  "boss_image": "agu_b_x",
+  "prix": "AP Chip",
+  "boss_jouable_sur": "aucun (non jouable sur XC/XD)"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "5",
+  "rencontres": [
+   "Renamon X",
+   "Agumon (Black) X"
+  ],
+  "rencontres_images": [
+   "rena_x",
+   "agu_b_x"
+  ],
+  "boss": "Impmon X",
+  "boss_image": "imp_x",
+  "prix": "Power Board",
+  "boss_jouable_sur": "aucun (non jouable sur XC/XD)"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "6",
+  "rencontres": [
+   "Gabumon X",
+   "Dracomon X"
+  ],
+  "rencontres_images": [
+   "gabu_x",
+   "draco_x"
+  ],
+  "boss": "Rhinomon X",
+  "boss_image": "rhino_x",
+  "prix": "Filling Meat",
+  "boss_jouable_sur": "aucun (non jouable sur XC/XD)"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "7",
+  "rencontres": [
+   "Agumon X",
+   "Impmon X"
+  ],
+  "rencontres_images": [
+   "agu_x",
+   "imp_x"
+  ],
+  "boss": "Allomon X",
+  "boss_image": "allo_x",
+  "prix": "Big Protein",
+  "boss_jouable_sur": "aucun (non jouable sur XC/XD)"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "8",
+  "rencontres": [
+   "Palmon X",
+   "Kokuwamon X"
+  ],
+  "rencontres_images": [
+   "pal_x",
+   "kokuwa_x"
+  ],
+  "boss": "Kuwagamon X",
+  "boss_image": "kuwaga_x",
+  "prix": "Seven Switch",
+  "boss_jouable_sur": "aucun (non jouable sur XC/XD)"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "9",
+  "rencontres": [
+   "Renamon X",
+   "Allomon X"
+  ],
+  "rencontres_images": [
+   "rena_x",
+   "allo_x"
+  ],
+  "boss": "Nefertimon X",
+  "boss_image": "neferti_x",
+  "prix": "AP Chip",
+  "boss_jouable_sur": "XD"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "10",
+  "rencontres": [
+   "Gomamon X",
+   "Seadramon X"
+  ],
+  "rencontres_images": [
+   "goma_x",
+   "seadra_x"
+  ],
+  "boss": "Mantaraymon X",
+  "boss_image": "mantaray_x",
+  "prix": "HP Rom",
+  "boss_jouable_sur": "XC"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "11",
+  "rencontres": [
+   "Dracomon X",
+   "Tyranomon X"
+  ],
+  "rencontres_images": [
+   "draco_x",
+   "tyrano_x"
+  ],
+  "boss": "Dark Tyranomon X",
+  "boss_image": "darktyrano_x",
+  "prix": "Power Board",
+  "boss_jouable_sur": "XC"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "12",
+  "rencontres": [
+   "Growmon X",
+   "Leomon X"
+  ],
+  "rencontres_images": [
+   "grow_x",
+   "leo_x"
+  ],
+  "boss": "Ogremon X",
+  "boss_image": "ogre_x",
+  "prix": "Jumper Gate",
+  "boss_jouable_sur": "XD"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "13",
+  "rencontres": [
+   "Numemon X",
+   "Numemon X"
+  ],
+  "rencontres_images": [
+   "nume_x",
+   "nume_x"
+  ],
+  "boss": "Numemon X",
+  "boss_image": "nume_x",
+  "prix": "EXP Coat",
+  "boss_jouable_sur": "XC et XD"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "14",
+  "rencontres": [
+   "Palmon X",
+   "Kokuwamon X",
+   "Allomon X",
+   "repos",
+   "Omekamon"
+  ],
+  "rencontres_images": [
+   "pal_x",
+   "kokuwa_x",
+   "allo_x",
+   "rest",
+   "omeka"
+  ],
+  "boss": "Lilimon X",
+  "boss_image": "lili_x",
+  "prix": "Big Protein",
+  "boss_jouable_sur": "aucun (non jouable sur XC/XD)"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "15",
+  "rencontres": [
+   "Rhinomon X",
+   "Kuwagamon X",
+   "Tailmon X",
+   "repos",
+   "Ogremon X"
+  ],
+  "rencontres_images": [
+   "rhino_x",
+   "kuwaga_x",
+   "tail_x",
+   "rest",
+   "ogre_x"
+  ],
+  "boss": "Were Garurumon X",
+  "boss_image": "weregaruru_x",
+  "prix": "Seven Switch",
+  "boss_jouable_sur": "aucun (non jouable sur XC/XD)"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "16",
+  "rencontres": [
+   "Leomon X",
+   "Mantaraymon X",
+   "Omekamon",
+   "repos",
+   "Megalo Growmon X"
+  ],
+  "rencontres_images": [
+   "leo_x",
+   "mantaray_x",
+   "omeka",
+   "rest",
+   "megalogrow_x"
+  ],
+  "boss": "Metal Fantomon",
+  "boss_image": "metalfanto",
+  "prix": "AP Chip",
+  "boss_jouable_sur": "XD"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "17",
+  "rencontres": [
+   "Kokuwamon X",
+   "Kuwagamon X"
+  ],
+  "rencontres_images": [
+   "kokuwa_x",
+   "kuwaga_x"
+  ],
+  "boss": "Okuwamon X",
+  "boss_image": "okuwa_x",
+  "prix": "Jumper Gate",
+  "boss_jouable_sur": "aucun (non jouable sur XC/XD)"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "18",
+  "rencontres": [
+   "Growmon X",
+   "Dark Tyranomon X",
+   "Megalo Growmon X",
+   "repos",
+   "Metal Greymon (Virus) X"
+  ],
+  "rencontres_images": [
+   "grow_x",
+   "darktyrano_x",
+   "megalogrow_x",
+   "rest",
+   "metalgrey_vi_x"
+  ],
+  "boss": "Triceramon X",
+  "boss_image": "tricera_x",
+  "prix": "Power Board",
+  "boss_jouable_sur": "XC"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "19",
+  "rencontres": [
+   "Numemon X",
+   "Lilimon X"
+  ],
+  "rencontres_images": [
+   "nume_x",
+   "lili_x"
+  ],
+  "boss": "Garudamon X",
+  "boss_image": "garuda_x",
+  "prix": "HP Rom",
+  "boss_jouable_sur": "aucun (non jouable sur XC/XD)"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "20",
+  "rencontres": [
+   "Plotmon X",
+   "Nefertimon X",
+   "Tailmon X",
+   "repos",
+   "Lilimon X"
+  ],
+  "rencontres_images": [
+   "plot_x",
+   "neferti_x",
+   "tail_x",
+   "rest",
+   "lili_x"
+  ],
+  "boss": "Lady Devimon X",
+  "boss_image": "ladydevi_x",
+  "prix": "Filling Meat",
+  "boss_jouable_sur": "XC"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "21",
+  "rencontres": [
+   "Dark Tyranomon X",
+   "Numemon X",
+   "Were Garurumon X",
+   "repos",
+   "Metal Fantomon"
+  ],
+  "rencontres_images": [
+   "darktyrano_x",
+   "nume_x",
+   "weregaruru_x",
+   "rest",
+   "metalfanto"
+  ],
+  "boss": "Mephismon X",
+  "boss_image": "mephis_x",
+  "prix": "Big Protein",
+  "boss_jouable_sur": "XD"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "22",
+  "rencontres": [
+   "Mametyramon",
+   "Metal Greymon X",
+   "Triceramon X",
+   "repos",
+   "Mammon X"
+  ],
+  "rencontres_images": [
+   "mametyra",
+   "metalgrey_va_x",
+   "tricera_x",
+   "rest",
+   "mam_x"
+  ],
+  "boss": "Metal Greymon (Virus) X",
+  "boss_image": "metalgrey_vi_x",
+  "prix": "Seven Switch",
+  "boss_jouable_sur": "XC"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "23",
+  "rencontres": [
+   "Okuwamon X",
+   "Metal Fantomon",
+   "Lady Devimon X",
+   "repos",
+   "Mephismon X"
+  ],
+  "rencontres_images": [
+   "okuwa_x",
+   "metalfanto",
+   "ladydevi_x",
+   "rest",
+   "mephis_x"
+  ],
+  "boss": "Vamdemon X",
+  "boss_image": "vamde_x",
+  "prix": "Seven Switch",
+  "boss_jouable_sur": "XD"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "24",
+  "rencontres": [
+   "Otamamon X",
+   "Seadramon X",
+   "Mantaraymon X",
+   "Megalo Growmon X",
+   "repos",
+   "Mega Seadramon X",
+   "Metal Garurumon X"
+  ],
+  "rencontres_images": [
+   "otama_x",
+   "seadra_x",
+   "mantaray_x",
+   "megalogrow_x",
+   "rest",
+   "megaseadra_x",
+   "metalgaruru_x"
+  ],
+  "boss": "Metal Piranimon",
+  "boss_image": "metalpirani",
+  "prix": "HP Rom",
+  "boss_jouable_sur": "aucun (non jouable sur XC/XD)"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "25",
+  "rencontres": [
+   "Gabumon X",
+   "Agumon X",
+   "Omekamon",
+   "Were Garurumon X",
+   "repos",
+   "Metal Greymon X",
+   "Metal Garurumon X"
+  ],
+  "rencontres_images": [
+   "gabu_x",
+   "agu_x",
+   "omeka",
+   "weregaruru_x",
+   "rest",
+   "metalgrey_va_x",
+   "metalgaruru_x"
+  ],
+  "boss": "War Greymon X",
+  "boss_image": "wargrey_x",
+  "prix": "AP Chip",
+  "boss_jouable_sur": "aucun (non jouable sur XC/XD)"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "26",
+  "rencontres": [
+   "Numemon X",
+   "Numemon X",
+   "Prince Mamemon X",
+   "repos",
+   "Prince Mamemon X"
+  ],
+  "rencontres_images": [
+   "nume_x",
+   "nume_x",
+   "princemame_x",
+   "rest",
+   "princemame_x"
+  ],
+  "boss": "Prince Mamemon X",
+  "boss_image": "princemame_x",
+  "prix": "Filling Meat",
+  "boss_jouable_sur": "aucun (non jouable sur XC/XD)"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "27",
+  "rencontres": [
+   "Palmon X",
+   "Lilimon X"
+  ],
+  "rencontres_images": [
+   "pal_x",
+   "lili_x"
+  ],
+  "boss": "Rosemon X",
+  "boss_image": "rose_x",
+  "prix": "Power Board",
+  "boss_jouable_sur": "aucun (non jouable sur XC/XD)"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "28",
+  "rencontres": [
+   "Allomon X",
+   "Growmon X",
+   "Tyranomon X",
+   "Mametyramon",
+   "repos",
+   "Megalo Growmon X",
+   "Metal Greymon (Virus) X"
+  ],
+  "rencontres_images": [
+   "allo_x",
+   "grow_x",
+   "tyrano_x",
+   "mametyra",
+   "rest",
+   "megalogrow_x",
+   "metalgrey_vi_x"
+  ],
+  "boss": "Dinorexmon",
+  "boss_image": "dinorex",
+  "prix": "Seven Switch",
+  "boss_jouable_sur": "XD"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "29",
+  "rencontres": [
+   "Seadramon X",
+   "Mametyramon",
+   "Triceramon X",
+   "Mammon X",
+   "repos",
+   "Metal Piranimon",
+   "Skull Mammon X"
+  ],
+  "rencontres_images": [
+   "seadra_x",
+   "mametyra",
+   "tricera_x",
+   "mam_x",
+   "rest",
+   "metalpirani",
+   "skullmam_x"
+  ],
+  "boss": "Ultimate Brachiomon",
+  "boss_image": "ultimatebrachi",
+  "prix": "Jumper Gate",
+  "boss_jouable_sur": "XC"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "30",
+  "rencontres": [
+   "Kokuwamon X",
+   "Kuwagamon X",
+   "Okuwamon X",
+   "repos",
+   "Grademon"
+  ],
+  "rencontres_images": [
+   "kokuwa_x",
+   "kuwaga_x",
+   "okuwa_x",
+   "rest",
+   "grade"
+  ],
+  "boss": "Grandis Kuwagamon",
+  "boss_image": "grandiskuwaga",
+  "prix": "AP Chip",
+  "boss_jouable_sur": "XC"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "31",
+  "rencontres": [
+   "Gomamon X",
+   "Otamamon X",
+   "Mantaraymon X",
+   "Seadramon X",
+   "repos",
+   "Mega Seadramon X",
+   "Metal Piranimon"
+  ],
+  "rencontres_images": [
+   "goma_x",
+   "otama_x",
+   "mantaray_x",
+   "seadra_x",
+   "rest",
+   "megaseadra_x",
+   "metalpirani"
+  ],
+  "boss": "Giga Seadramon",
+  "boss_image": "gigaseadra",
+  "prix": "HP Rom",
+  "boss_jouable_sur": "XD"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "32",
+  "rencontres": [
+   "Dracomon X",
+   "Tyranomon X",
+   "Dark Tyranomon X",
+   "Megalo Growmon X",
+   "repos",
+   "Metal Greymon (Virus) X",
+   "Dinorexmon"
+  ],
+  "rencontres_images": [
+   "draco_x",
+   "tyrano_x",
+   "darktyrano_x",
+   "megalogrow_x",
+   "rest",
+   "metalgrey_vi_x",
+   "dinorex"
+  ],
+  "boss": "Chaosdramon X",
+  "boss_image": "chaosdra_x",
+  "prix": "Big Protein",
+  "boss_jouable_sur": "aucun (non jouable sur XC/XD)"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "33",
+  "rencontres": [
+   "Were Garurumon X",
+   "Okuwamon X",
+   "Mega Seadramon X",
+   "Garudamon X",
+   "repos",
+   "Skull Mammon X",
+   "Mephismon X"
+  ],
+  "rencontres_images": [
+   "weregaruru_x",
+   "okuwa_x",
+   "megaseadra_x",
+   "garuda_x",
+   "rest",
+   "skullmam_x",
+   "mephis_x"
+  ],
+  "boss": "Cherubimon (Vice) X",
+  "boss_image": "cherubi_vice_x",
+  "prix": "Filling Meat",
+  "boss_jouable_sur": "XD"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "34",
+  "rencontres": [
+   "Minervamon X",
+   "Beel Starmon X"
+  ],
+  "rencontres_images": [
+   "minerva_x",
+   "beelstar_x"
+  ],
+  "boss": "Ofanimon: Falldown Mode X",
+  "boss_image": "ofani_fdm_x",
+  "prix": "Power Board",
+  "boss_jouable_sur": "XC"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "35",
+  "rencontres": [
+   "Omekamon",
+   "Were Garurumon X",
+   "Grademon",
+   "Metal Greymon (Virus) X",
+   "repos",
+   "Metal Garurumon X",
+   "War Greymon X"
+  ],
+  "rencontres_images": [
+   "omeka",
+   "weregaruru_x",
+   "grade",
+   "metalgrey_vi_x",
+   "rest",
+   "metalgaruru_x",
+   "wargrey_x"
+  ],
+  "boss": "Black War Greymon X",
+  "boss_image": "blackwargrey_x",
+  "prix": "Filling Meat",
+  "boss_jouable_sur": "XC"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "36",
+  "rencontres": [
+   "Ogremon X",
+   "Were Garurumon X",
+   "Garudamon X",
+   "repos",
+   "Vamdemon X"
+  ],
+  "rencontres_images": [
+   "ogre_x",
+   "weregaruru_x",
+   "garuda_x",
+   "rest",
+   "vamde_x"
+  ],
+  "boss": "Dark Knightmon X",
+  "boss_image": "darkknight_x",
+  "prix": "AP Chip",
+  "boss_jouable_sur": "XD"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "37",
+  "rencontres": [
+   "Leomon X",
+   "Beel Starmon X",
+   "Sakuyamon X",
+   "repos",
+   "Megidramon X"
+  ],
+  "rencontres_images": [
+   "leo_x",
+   "beelstar_x",
+   "sakuya_x",
+   "rest",
+   "megidra_x"
+  ],
+  "boss": "Beelzebumon X",
+  "boss_image": "beelzebu_x",
+  "prix": "HP Rom",
+  "boss_jouable_sur": "aucun (non jouable sur XC/XD)"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "38",
+  "rencontres": [
+   "Skull Mammon X",
+   "Prince Mamemon X",
+   "Ultimate Brachiomon",
+   "Giga Seadramon",
+   "repos",
+   "Grandis Kuwagamon",
+   "Dark Knightmon X"
+  ],
+  "rencontres_images": [
+   "skullmam_x",
+   "princemame_x",
+   "ultimatebrachi",
+   "gigaseadra",
+   "rest",
+   "grandiskuwaga",
+   "darkknight_x"
+  ],
+  "boss": "Barbamon X",
+  "boss_image": "barba_x",
+  "prix": "Seven Switch",
+  "boss_jouable_sur": "aucun (non jouable sur XC/XD)"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "39",
+  "rencontres": [
+   "Lady Devimon X",
+   "Minervamon X",
+   "Beel Starmon X",
+   "Rosemon X",
+   "repos",
+   "Sakuyamon X",
+   "Ofanimon: Falldown Mode X"
+  ],
+  "rencontres_images": [
+   "ladydevi_x",
+   "minerva_x",
+   "beelstar_x",
+   "rose_x",
+   "rest",
+   "sakuya_x",
+   "ofani_fdm_x"
+  ],
+  "boss": "Lilithmon X",
+  "boss_image": "lilith_x",
+  "prix": "Big Protein",
+  "boss_jouable_sur": "XC"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "40",
+  "rencontres": [
+   "Skull Mammon X",
+   "Prince Mamemon X",
+   "Dinorexmon",
+   "Ultimate Brachiomon",
+   "repos",
+   "Chaosdramon X",
+   "Cherubimon (Vice) X"
+  ],
+  "rencontres_images": [
+   "skullmam_x",
+   "princemame_x",
+   "dinorex",
+   "ultimatebrachi",
+   "rest",
+   "chaosdra_x",
+   "cherubi_vice_x"
+  ],
+  "boss": "Belphemon X",
+  "boss_image": "belphe_x",
+  "prix": "Power Board",
+  "boss_jouable_sur": "XD"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "41",
+  "rencontres": [
+   "Metal Fantomon",
+   "Triceramon X",
+   "Metal Piranimon",
+   "Giga Seadramon",
+   "repos",
+   "Chaosdramon X",
+   "Black War Greymon X"
+  ],
+  "rencontres_images": [
+   "metalfanto",
+   "tricera_x",
+   "metalpirani",
+   "gigaseadra",
+   "rest",
+   "chaosdra_x",
+   "blackwargrey_x"
+  ],
+  "boss": "Demon X",
+  "boss_image": "de_x",
+  "prix": "EXP Coat",
+  "boss_jouable_sur": "aucun (non jouable sur XC/XD)"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "42",
+  "rencontres": [
+   "Lady Devimon X",
+   "Vamdemon X",
+   "Ofanimon: Falldown Mode X",
+   "Cherubimon (Vice) X",
+   "repos",
+   "Lilithmon X",
+   "Demon X"
+  ],
+  "rencontres_images": [
+   "ladydevi_x",
+   "vamde_x",
+   "ofani_fdm_x",
+   "cherubi_vice_x",
+   "rest",
+   "lilith_x",
+   "de_x"
+  ],
+  "boss": "Lucemon X",
+  "boss_image": "luce_x",
+  "prix": "Jumper Gate",
+  "boss_jouable_sur": "aucun (non jouable sur XC/XD)"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "43",
+  "rencontres": [
+   "Megidramon X",
+   "Holydramon X"
+  ],
+  "rencontres_images": [
+   "megidra_x",
+   "holydra_x"
+  ],
+  "boss": "Goddramon X",
+  "boss_image": "goddra_x",
+  "prix": "EXP Coat",
+  "boss_jouable_sur": "aucun (non jouable sur XC/XD)"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "44",
+  "rencontres": [
+   "Metal Greymon X",
+   "Metal Greymon (Virus) X",
+   "War Greymon X",
+   "Black War Greymon X",
+   "repos",
+   "Dark Knightmon X",
+   "Lord Knightmon X"
+  ],
+  "rencontres_images": [
+   "metalgrey_va_x",
+   "metalgrey_vi_x",
+   "wargrey_x",
+   "blackwargrey_x",
+   "rest",
+   "darkknight_x",
+   "lordknight_x"
+  ],
+  "boss": "Examon",
+  "boss_image": "exa",
+  "prix": "Seven Switch",
+  "boss_jouable_sur": "aucun (non jouable sur XC/XD)"
+ },
+ {
+  "serie": "XC/XD",
+  "zone": "45",
+  "rencontres": [
+   "Goddramon X",
+   "Examon",
+   "Craniummon X",
+   "Sleipmon X",
+   "repos",
+   "Lord Knightmon X",
+   "Jesmon X"
+  ],
+  "rencontres_images": [
+   "goddra_x",
+   "exa",
+   "cranium_x",
+   "sleip_x",
+   "rest",
+   "lordknight_x",
+   "jes_x"
+  ],
+  "boss": "Gankoomon",
+  "boss_image": "gankoo",
+  "prix": "EXP Coat",
+  "boss_jouable_sur": "aucun (non jouable sur XC/XD)"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "1",
+  "rencontres": [
+   "Tokomon X",
+   "Chocomon"
+  ],
+  "rencontres_images": [
+   "toko_x",
+   "choco"
+  ],
+  "boss": "Gummymon",
+  "boss_image": "gummy",
+  "prix": "Big Protein",
+  "boss_jouable_sur": "aucun (non jouable sur XE/XF)"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "2",
+  "rencontres": [
+   "Agumon X",
+   "Dracomon X"
+  ],
+  "rencontres_images": [
+   "agu_x",
+   "draco_x"
+  ],
+  "boss": "Agumon (Black) X",
+  "boss_image": "agu_b_x",
+  "prix": "Filling Meat",
+  "boss_jouable_sur": "aucun (non jouable sur XE/XF)"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "3",
+  "rencontres": [
+   "Shakomon X",
+   "Renamon X"
+  ],
+  "rencontres_images": [
+   "shako_x",
+   "rena_x"
+  ],
+  "boss": "Impmon X",
+  "boss_image": "imp_x",
+  "prix": "HP Rom",
+  "boss_jouable_sur": "aucun (non jouable sur XE/XF)"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "4",
+  "rencontres": [
+   "Palmon X",
+   "DORUmon"
+  ],
+  "rencontres_images": [
+   "pal_x",
+   "doru"
+  ],
+  "boss": "Lopmon X",
+  "boss_image": "lop_x",
+  "prix": "AP Chip",
+  "boss_jouable_sur": "aucun (non jouable sur XE/XF)"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "5",
+  "rencontres": [
+   "Renamon X",
+   "Ryudamon"
+  ],
+  "rencontres_images": [
+   "rena_x",
+   "ryuda"
+  ],
+  "boss": "Terriermon X",
+  "boss_image": "terrier_x",
+  "prix": "Power Board",
+  "boss_jouable_sur": "aucun (non jouable sur XE/XF)"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "6",
+  "rencontres": [
+   "Agumon (Black) X",
+   "Impmon X"
+  ],
+  "rencontres_images": [
+   "agu_b_x",
+   "imp_x"
+  ],
+  "boss": "Kuwagamon X",
+  "boss_image": "kuwaga_x",
+  "prix": "Filling Meat",
+  "boss_jouable_sur": "aucun (non jouable sur XE/XF)"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "7",
+  "rencontres": [
+   "Shakomon X",
+   "Palmon X"
+  ],
+  "rencontres_images": [
+   "shako_x",
+   "pal_x"
+  ],
+  "boss": "Tylomon X",
+  "boss_image": "tylo_x",
+  "prix": "Big Protein",
+  "boss_jouable_sur": "aucun (non jouable sur XE/XF)"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "8",
+  "rencontres": [
+   "Dracomon X",
+   "DORUgamon"
+  ],
+  "rencontres_images": [
+   "draco_x",
+   "doruga"
+  ],
+  "boss": "Pteranomon X",
+  "boss_image": "pterano_x",
+  "prix": "Seven Switch",
+  "boss_jouable_sur": "aucun (non jouable sur XE/XF)"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "9",
+  "rencontres": [
+   "Agumon X",
+   "Leomon X"
+  ],
+  "rencontres_images": [
+   "agu_x",
+   "leo_x"
+  ],
+  "boss": "Meramon X",
+  "boss_image": "mera_x",
+  "prix": "AP Chip",
+  "boss_jouable_sur": "XE"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "10",
+  "rencontres": [
+   "Renamon X",
+   "Tailmon X"
+  ],
+  "rencontres_images": [
+   "rena_x",
+   "tail_x"
+  ],
+  "boss": "Pegasmon X",
+  "boss_image": "pegas_x",
+  "prix": "HP Rom",
+  "boss_jouable_sur": "XF"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "11",
+  "rencontres": [
+   "Lopmon X",
+   "Togemon X"
+  ],
+  "rencontres_images": [
+   "lop_x",
+   "toge_x"
+  ],
+  "boss": "Siesamon X",
+  "boss_image": "siesa_x",
+  "prix": "Power Board",
+  "boss_jouable_sur": "XE"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "12",
+  "rencontres": [
+   "Terriermon X",
+   "Tailmon X"
+  ],
+  "rencontres_images": [
+   "terrier_x",
+   "tail_x"
+  ],
+  "boss": "Wizarmon X",
+  "boss_image": "wizar_x",
+  "prix": "Jumper Gate",
+  "boss_jouable_sur": "XF"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "13",
+  "rencontres": [
+   "Numemon X",
+   "Numemon X"
+  ],
+  "rencontres_images": [
+   "nume_x",
+   "nume_x"
+  ],
+  "boss": "Omekamon",
+  "boss_image": "omeka",
+  "prix": "EXP Coat",
+  "boss_jouable_sur": "aucun (non jouable sur XE/XF)"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "14",
+  "rencontres": [
+   "Leomon X",
+   "Tyranomon X",
+   "Ogremon X",
+   "repos",
+   "Dark Tyranomon X"
+  ],
+  "rencontres_images": [
+   "leo_x",
+   "tyrano_x",
+   "ogre_x",
+   "rest",
+   "darktyrano_x"
+  ],
+  "boss": "Mamemon X",
+  "boss_image": "mame_x",
+  "prix": "Big Protein",
+  "boss_jouable_sur": "aucun (non jouable sur XE/XF)"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "15",
+  "rencontres": [
+   "Ryudamon",
+   "DORUgamon",
+   "Siesamon X",
+   "repos",
+   "Metal Greymon X"
+  ],
+  "rencontres_images": [
+   "ryuda",
+   "doruga",
+   "siesa_x",
+   "rest",
+   "metalgrey_va_x"
+  ],
+  "boss": "Grademon",
+  "boss_image": "grade",
+  "prix": "Seven Switch",
+  "boss_jouable_sur": "aucun (non jouable sur XE/XF)"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "16",
+  "rencontres": [
+   "Togemon X",
+   "Pteranomon X",
+   "Pegasmon X",
+   "repos",
+   "Meramon X"
+  ],
+  "rencontres_images": [
+   "toge_x",
+   "pterano_x",
+   "pegas_x",
+   "rest",
+   "mera_x"
+  ],
+  "boss": "Garudamon X",
+  "boss_image": "garuda_x",
+  "prix": "AP Chip",
+  "boss_jouable_sur": "XE"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "17",
+  "rencontres": [
+   "Shakomon X",
+   "Tylomon X"
+  ],
+  "rencontres_images": [
+   "shako_x",
+   "tylo_x"
+  ],
+  "boss": "Anomalocarimon X",
+  "boss_image": "anomalocari_x",
+  "prix": "Jumper Gate",
+  "boss_jouable_sur": "aucun (non jouable sur XE/XF)"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "18",
+  "rencontres": [
+   "DORUgamon",
+   "Metal Greymon X",
+   "Grademon",
+   "repos",
+   "DORUguremon"
+  ],
+  "rencontres_images": [
+   "doruga",
+   "metalgrey_va_x",
+   "grade",
+   "rest",
+   "dorugure"
+  ],
+  "boss": "Rize Greymon X",
+  "boss_image": "rizegrey_x",
+  "prix": "Power Board",
+  "boss_jouable_sur": "XF"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "19",
+  "rencontres": [
+   "DORUmon",
+   "DORUgamon"
+  ],
+  "rencontres_images": [
+   "doru",
+   "doruga"
+  ],
+  "boss": "DORUguremon",
+  "boss_image": "dorugure",
+  "prix": "HP Rom",
+  "boss_jouable_sur": "aucun (non jouable sur XE/XF)"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "20",
+  "rencontres": [
+   "Togemon X",
+   "Mamemon X",
+   "Cannonbeemon",
+   "repos",
+   "Lady Devimon X"
+  ],
+  "rencontres_images": [
+   "toge_x",
+   "mame_x",
+   "cannonbee",
+   "rest",
+   "ladydevi_x"
+  ],
+  "boss": "Monzaemon X",
+  "boss_image": "monzae_x",
+  "prix": "Filling Meat",
+  "boss_jouable_sur": "XF"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "21",
+  "rencontres": [
+   "Agumon (Black) X",
+   "Dark Tyranomon X",
+   "Metal Tyranomon X",
+   "repos",
+   "Metal Greymon (Virus) X"
+  ],
+  "rencontres_images": [
+   "agu_b_x",
+   "darktyrano_x",
+   "metaltyrano_x",
+   "rest",
+   "metalgrey_vi_x"
+  ],
+  "boss": "Cyberdramon X",
+  "boss_image": "cyberdra_x",
+  "prix": "Big Protein",
+  "boss_jouable_sur": "XE"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "22",
+  "rencontres": [
+   "Dracomon X",
+   "Omekamon",
+   "Grademon",
+   "repos",
+   "Rize Greymon X"
+  ],
+  "rencontres_images": [
+   "draco_x",
+   "omeka",
+   "grade",
+   "rest",
+   "rizegrey_x"
+  ],
+  "boss": "Omega Shoutmon X",
+  "boss_image": "omegashout_x",
+  "prix": "Seven Switch",
+  "boss_jouable_sur": "XE"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "23",
+  "rencontres": [
+   "Tailmon X",
+   "Wizarmon X",
+   "Lady Devimon X",
+   "repos",
+   "Monzaemon X"
+  ],
+  "rencontres_images": [
+   "tail_x",
+   "wizar_x",
+   "ladydevi_x",
+   "rest",
+   "monzae_x"
+  ],
+  "boss": "Angewomon X",
+  "boss_image": "angewo_x",
+  "prix": "Jumper Gate",
+  "boss_jouable_sur": "XF"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "24",
+  "rencontres": [
+   "Kuwagamon X",
+   "Ogremon X",
+   "Numemon X",
+   "repos",
+   "Metal Greymon (Virus) X"
+  ],
+  "rencontres_images": [
+   "kuwaga_x",
+   "ogre_x",
+   "nume_x",
+   "rest",
+   "metalgrey_vi_x"
+  ],
+  "boss": "Mephismon X",
+  "boss_image": "mephis_x",
+  "prix": "HP Rom",
+  "boss_jouable_sur": "aucun (non jouable sur XE/XF)"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "25",
+  "rencontres": [
+   "Dark Tyranomon X",
+   "Mamemon X",
+   "Metal Greymon (Virus) X",
+   "repos",
+   "Lady Devimon X"
+  ],
+  "rencontres_images": [
+   "darktyrano_x",
+   "mame_x",
+   "metalgrey_vi_x",
+   "rest",
+   "ladydevi_x"
+  ],
+  "boss": "Vamdemon X",
+  "boss_image": "vamde_x",
+  "prix": "AP Chip",
+  "boss_jouable_sur": "aucun (non jouable sur XE/XF)"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "26",
+  "rencontres": [
+   "Ryudamon",
+   "Tylomon X",
+   "Cannonbeemon",
+   "Metal Tyranomon X",
+   "repos",
+   "Metal Greymon X",
+   "Rize Greymon X"
+  ],
+  "rencontres_images": [
+   "ryuda",
+   "tylo_x",
+   "cannonbee",
+   "metaltyrano_x",
+   "rest",
+   "metalgrey_va_x",
+   "rizegrey_x"
+  ],
+  "boss": "Ebemon X",
+  "boss_image": "ebe_x",
+  "prix": "Filling Meat",
+  "boss_jouable_sur": "aucun (non jouable sur XE/XF)"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "27",
+  "rencontres": [
+   "Pteranomon X",
+   "Ginryumon",
+   "Pegasmon X",
+   "Garudamon X",
+   "repos",
+   "Holydramon X",
+   "Sakuyamon X"
+  ],
+  "rencontres_images": [
+   "pterano_x",
+   "ginryu",
+   "pegas_x",
+   "garuda_x",
+   "rest",
+   "holydra_x",
+   "sakuya_x"
+  ],
+  "boss": "Hououmon X",
+  "boss_image": "houou_x",
+  "prix": "Power Board",
+  "boss_jouable_sur": "XE"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "28",
+  "rencontres": [
+   "Tailmon X",
+   "Wizarmon X",
+   "Cyberdramon X",
+   "Angewomon X",
+   "repos",
+   "Tiger Vespamon",
+   "Holydramon X"
+  ],
+  "rencontres_images": [
+   "tail_x",
+   "wizar_x",
+   "cyberdra_x",
+   "angewo_x",
+   "rest",
+   "tigervespa",
+   "holydra_x"
+  ],
+  "boss": "Ofanimon X",
+  "boss_image": "ofani_x",
+  "prix": "Seven Switch",
+  "boss_jouable_sur": "XF"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "29",
+  "rencontres": [
+   "Meramon X",
+   "Omega Shoutmon X",
+   "Black War Greymon X",
+   "repos",
+   "Gaioumon"
+  ],
+  "rencontres_images": [
+   "mera_x",
+   "omegashout_x",
+   "blackwargrey_x",
+   "rest",
+   "gaiou"
+  ],
+  "boss": "Justimon X",
+  "boss_image": "justi_x",
+  "prix": "Jumper Gate",
+  "boss_jouable_sur": "XE"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "30",
+  "rencontres": [
+   "Siesamon X",
+   "Monzaemon X",
+   "Cyberdramon X",
+   "Ofanimon: Falldown Mode X",
+   "repos",
+   "Ofanimon X",
+   "Cherubimon (Vice) X"
+  ],
+  "rencontres_images": [
+   "siesa_x",
+   "monzae_x",
+   "cyberdra_x",
+   "ofani_fdm_x",
+   "rest",
+   "ofani_x",
+   "cherubi_vice_x"
+  ],
+  "boss": "Cherubimon (Virtue) X",
+  "boss_image": "cherubi_virtue_x",
+  "prix": "AP Chip",
+  "boss_jouable_sur": "XF"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "31",
+  "rencontres": [
+   "Tyranomon X",
+   "DORUguremon",
+   "Hisyaryumon",
+   "War Greymon X",
+   "repos",
+   "Holydramon X",
+   "Ouryumon"
+  ],
+  "rencontres_images": [
+   "tyrano_x",
+   "dorugure",
+   "hisyaryu",
+   "wargrey_x",
+   "rest",
+   "holydra_x",
+   "ouryu"
+  ],
+  "boss": "Goddramon X",
+  "boss_image": "goddra_x",
+  "prix": "HP Rom",
+  "boss_jouable_sur": "XF"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "32",
+  "rencontres": [
+   "Garudamon X",
+   "Angewomon X",
+   "Plesiomon X",
+   "Dinotigermon",
+   "repos",
+   "Sakuyamon X",
+   "Cherubimon (Virtue) X"
+  ],
+  "rencontres_images": [
+   "garuda_x",
+   "angewo_x",
+   "plesio_x",
+   "dinotiger",
+   "rest",
+   "sakuya_x",
+   "cherubi_virtue_x"
+  ],
+  "boss": "Rapidmon X",
+  "boss_image": "rapid_x",
+  "prix": "Big Protein",
+  "boss_jouable_sur": "XE"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "33",
+  "rencontres": [
+   "Ogremon X",
+   "Barbamon X"
+  ],
+  "rencontres_images": [
+   "ogre_x",
+   "barba_x"
+  ],
+  "boss": "Dark Knightmon X",
+  "boss_image": "darkknight_x",
+  "prix": "Filling Meat",
+  "boss_jouable_sur": "aucun (non jouable sur XE/XF)"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "34",
+  "rencontres": [
+   "Anomalocarimon X",
+   "Tiger Vespamon",
+   "Gaioumon",
+   "Justimon X",
+   "repos",
+   "Sleipmon X",
+   "Craniummon X"
+  ],
+  "rencontres_images": [
+   "anomalocari_x",
+   "tigervespa",
+   "gaiou",
+   "justi_x",
+   "rest",
+   "sleip_x",
+   "cranium_x"
+  ],
+  "boss": "Dynasmon X",
+  "boss_image": "dynas_x",
+  "prix": "Power Board",
+  "boss_jouable_sur": "XE"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "35",
+  "rencontres": [
+   "Ebemon X",
+   "Plesiomon X",
+   "Dinotigermon",
+   "repos",
+   "Lord Knightmon X"
+  ],
+  "rencontres_images": [
+   "ebe_x",
+   "plesio_x",
+   "dinotiger",
+   "rest",
+   "lordknight_x"
+  ],
+  "boss": "Duftmon X",
+  "boss_image": "duft_x",
+  "prix": "Filling Meat",
+  "boss_jouable_sur": "XF"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "36",
+  "rencontres": [
+   "Terriermon X",
+   "Lopmon X",
+   "Tylomon X",
+   "Pteranomon X",
+   "repos",
+   "Pegasmon X",
+   "Rapidmon X"
+  ],
+  "rencontres_images": [
+   "terrier_x",
+   "lop_x",
+   "tylo_x",
+   "pterano_x",
+   "rest",
+   "pegas_x",
+   "rapid_x"
+  ],
+  "boss": "Magnamon X",
+  "boss_image": "magna_x",
+  "prix": "AP Chip",
+  "boss_jouable_sur": "XE"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "37",
+  "rencontres": [
+   "Ginryumon",
+   "Hisyaryumon",
+   "War Greymon X",
+   "Black War Greymon X",
+   "repos",
+   "Gaioumon",
+   "Alphamon"
+  ],
+  "rencontres_images": [
+   "ginryu",
+   "hisyaryu",
+   "wargrey_x",
+   "blackwargrey_x",
+   "rest",
+   "gaiou",
+   "alpha"
+  ],
+  "boss": "Ulforce V-dramon X",
+  "boss_image": "ulforcevdra_x",
+  "prix": "HP Rom",
+  "boss_jouable_sur": "XF"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "38",
+  "rencontres": [
+   "Mephismon X",
+   "Vamdemon X",
+   "Dark Knightmon X",
+   "Belphemon X",
+   "repos",
+   "Leviamon X",
+   "Demon X"
+  ],
+  "rencontres_images": [
+   "mephis_x",
+   "vamde_x",
+   "darkknight_x",
+   "belphe_x",
+   "rest",
+   "levia_x",
+   "de_x"
+  ],
+  "boss": "Lilithmon X",
+  "boss_image": "lilith_x",
+  "prix": "Seven Switch",
+  "boss_jouable_sur": "aucun (non jouable sur XE/XF)"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "39",
+  "rencontres": [
+   "Dracomon X",
+   "Tyranomon X",
+   "Metal Tyranomon X",
+   "Ouryumon",
+   "repos",
+   "Goddramon X",
+   "Hououmon X"
+  ],
+  "rencontres_images": [
+   "draco_x",
+   "tyrano_x",
+   "metaltyrano_x",
+   "ouryu",
+   "rest",
+   "goddra_x",
+   "houou_x"
+  ],
+  "boss": "Examon X",
+  "boss_image": "exa_x",
+  "prix": "Big Protein",
+  "boss_jouable_sur": "XF"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "40",
+  "rencontres": [
+   "Cherubimon (Virtue) X",
+   "Ofanimon X",
+   "Duftmon X",
+   "Dynasmon X",
+   "repos",
+   "Magnamon X",
+   "Jesmon X"
+  ],
+  "rencontres_images": [
+   "cherubi_virtue_x",
+   "ofani_x",
+   "duft_x",
+   "dynas_x",
+   "rest",
+   "magna_x",
+   "jes_x"
+  ],
+  "boss": "Gankoomon X",
+  "boss_image": "gankoo_x",
+  "prix": "Power Board",
+  "boss_jouable_sur": "XE"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "41",
+  "rencontres": [
+   "Omekamon",
+   "Omega Shoutmon X"
+  ],
+  "rencontres_images": [
+   "omeka",
+   "omegashout_x"
+  ],
+  "boss": "Omegamon X",
+  "boss_image": "omega_x",
+  "prix": "EXP Coat",
+  "boss_jouable_sur": "aucun (non jouable sur XE/XF)"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "42",
+  "rencontres": [
+   "Impmon X",
+   "Ofanimon: Falldown Mode X",
+   "Cherubimon (Vice) X",
+   "repos",
+   "Beelzebumon X"
+  ],
+  "rencontres_images": [
+   "imp_x",
+   "ofani_fdm_x",
+   "cherubi_vice_x",
+   "rest",
+   "beelzebu_x"
+  ],
+  "boss": "Lucemon X",
+  "boss_image": "luce_x",
+  "prix": "Jumper Gate",
+  "boss_jouable_sur": "aucun (non jouable sur XE/XF)"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "43",
+  "rencontres": [
+   "Tsumemon",
+   "Keramon X"
+  ],
+  "rencontres_images": [
+   "tsume",
+   "kera_x"
+  ],
+  "boss": "Diablomon X",
+  "boss_image": "diablo_x",
+  "prix": "EXP Coat",
+  "boss_jouable_sur": "aucun (non jouable sur XE/XF)"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "44",
+  "rencontres": [
+   "Barbamon X",
+   "Belphemon X",
+   "Leviamon X",
+   "Beelzebumon X",
+   "repos",
+   "Lilithmon X",
+   "Demon X"
+  ],
+  "rencontres_images": [
+   "barba_x",
+   "belphe_x",
+   "levia_x",
+   "beelzebu_x",
+   "rest",
+   "lilith_x",
+   "de_x"
+  ],
+  "boss": "Lucemon X",
+  "boss_image": "luce_x",
+  "prix": "Seven Switch",
+  "boss_jouable_sur": "aucun (non jouable sur XE/XF)"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "45",
+  "rencontres": [
+   "Diablomon X",
+   "Diablomon X",
+   "Diablomon X",
+   "Diablomon X",
+   "repos",
+   "Diablomon X",
+   "Diablomon X"
+  ],
+  "rencontres_images": [
+   "diablo_x",
+   "diablo_x",
+   "diablo_x",
+   "diablo_x",
+   "rest",
+   "diablo_x",
+   "diablo_x"
+  ],
+  "boss": "Ogudomon X",
+  "boss_image": "ogudo_x",
+  "prix": "EXP Coat",
+  "boss_jouable_sur": "aucun (non jouable sur XE/XF)"
+ },
+ {
+  "serie": "XE/XF",
+  "zone": "SP",
+  "rencontres": [
+   "Ouryumon",
+   "Alphamon",
+   "Dukemon X",
+   "repos",
+   "Omegamon X"
+  ],
+  "rencontres_images": [
+   "ouryu",
+   "alpha",
+   "duke_x",
+   "rest",
+   "omega_x"
+  ],
+  "boss": "Alphamon: Ouryuken",
+  "boss_image": "alpha_o",
+  "prix": "EXP Coat",
+  "boss_jouable_sur": "XE et XF"
+ }
+]

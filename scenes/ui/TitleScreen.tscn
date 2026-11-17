@@ -1,0 +1,117 @@
+[gd_scene format=3 uid="uid://conxd5kjc2wpu"]
+
+[ext_resource type="Script" uid="uid://bjju4s474wba" path="res://scripts/ui/title_screen.gd" id="1_ny3vc"]
+
+[node name="TitleScreen" type="Control" unique_id=890289980]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_ny3vc")
+
+[node name="Background" type="ColorRect" parent="." unique_id=582310783]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0.039215688, 0.05882353, 0.12156863, 1)
+
+[node name="Grid" type="Control" parent="." unique_id=1242842308]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+
+[node name="Particles" type="CPUParticles2D" parent="." unique_id=194917864]
+position = Vector2(576, 648)
+
+[node name="Title" type="VBoxContainer" parent="." unique_id=1929035608]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = 60.0
+offset_bottom = -340.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Logo" type="Label" parent="Title" unique_id=1509764187]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 0
+theme_override_font_sizes/font_size = 64
+text = "DigimonX"
+horizontal_alignment = 1
+
+[node name="SubTitle" type="Label" parent="Title" unique_id=992639006]
+layout_mode = 2
+size_flags_horizontal = 4
+theme_override_font_sizes/font_size = 32
+text = "ADVENTURES"
+horizontal_alignment = 1
+
+[node name="Menu" type="VBoxContainer" parent="." unique_id=1704390339]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 426.0
+offset_top = 340.0
+offset_right = -426.0
+offset_bottom = -48.0
+grow_horizontal = 2
+grow_vertical = 2
+alignment = 1
+
+[node name="BtnNew" type="Button" parent="Menu" unique_id=766069857]
+layout_mode = 2
+text = "Nouvelle partie"
+
+[node name="BtnContinue" type="Button" parent="Menu" unique_id=512058493]
+layout_mode = 2
+text = "Continuer"
+
+[node name="BtnLibrary" type="Button" parent="Menu" unique_id=690072024]
+layout_mode = 2
+text = "Librairie"
+
+[node name="BtnSettings" type="Button" parent="Menu" unique_id=456496036]
+layout_mode = 2
+text = "Paramètres"
+
+[node name="BtnQuit" type="Button" parent="Menu" unique_id=227889947]
+layout_mode = 2
+text = "Quitter"
+
+[node name="Version" type="Label" parent="." unique_id=382679093]
+layout_mode = 1
+anchors_preset = 3
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -120.0
+offset_top = -30.0
+offset_right = -10.0
+offset_bottom = -6.0
+grow_horizontal = 0
+grow_vertical = 0
+text = "v0.1 By LipeStz"
+
+[node name="Fade" type="ColorRect" parent="." unique_id=1586935490]
+modulate = Color(1, 1, 1, 0)
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+color = Color(0.0035191667, 0.0035191681, 0.0035191672, 1)

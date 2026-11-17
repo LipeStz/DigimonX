@@ -1,0 +1,12 @@
+[
+  {"id": "meat",         "name": "Meat",         "type": "food",  "effect": "hunger+0.5",    "weight": 1, "price": 20,  "desc": "Aliment de base. +0,5 cœur Faim, +1 Go poids."},
+  {"id": "protein",      "name": "Protein",      "type": "food",  "effect": "strength+0.5",  "weight": 2, "price": 30,  "desc": "Pour la force. +0,5 cœur Force, +2 Go poids."},
+  {"id": "filling_meat", "name": "Filling Meat", "type": "food",  "effect": "hunger_full",   "weight": 4, "price": 80,  "desc": "Restaure toute la Faim, +4 Go poids. Ralentit la décrue."},
+  {"id": "big_protein",  "name": "Big Protein",  "type": "food",  "effect": "strength_full", "weight": 2, "price": 80,  "desc": "Restaure toute la Force, +2 Go poids. Ralentit la décrue."},
+  {"id": "power_board",  "name": "Power Board",  "type": "boost", "effect": "power_up",      "weight": 8, "price": 150, "desc": "+Puissance en combat. +8 Go poids. Durée : 1 arène."},
+  {"id": "hp_rom",       "name": "HP Rom",       "type": "boost", "effect": "hp+2",          "weight": 8, "price": 150, "desc": "+2 HP en combat. +8 Go poids. Durée : 1 arène."},
+  {"id": "ap_chip",      "name": "AP Chip",      "type": "boost", "effect": "ap+2",          "weight": 8, "price": 150, "desc": "+2 AP en combat. +8 Go poids. Durée : 1 arène."},
+  {"id": "seven_switch", "name": "Seven Switch", "type": "boost", "effect": "xai_fixed_7",   "weight": 8, "price": 300, "desc": "Tous les lancers XAI = 7. +8 Go poids. Durée : 1 arène."},
+  {"id": "jumper_gate",  "name": "Jumper Gate",  "type": "boost", "effect": "skip_to_boss",  "weight": 8, "price": 200, "desc": "Saute directement au boss. +8 Go poids. Durée : 1 arène."},
+  {"id": "exp_coat",     "name": "EXP Coat",     "type": "boost", "effect": "xp_x2",         "weight": 8, "price": 250, "desc": "Double l'XP gagnée. +8 Go poids. Durée : 1 arène."}
+]   

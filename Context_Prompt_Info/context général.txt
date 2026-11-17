@@ -1,0 +1,59 @@
+=== DIGIMON X SOLO : CONTEXTE v3 ===
+
+PROJET
+- Godot 4.7.2, jeu 2D vue de dessus (top-down) (inspiré Digimon World PS1, Pokémon GB),
+  projet digimon-x-solo.
+- Chemin : F:\Godot\Digimon X Solo\digimon-x-solo
+
+COMMUNICATION (TRÈS IMPORTANT)
+- Répondre en français, précis, concis, simple.
+- UNE seule étape à la fois : dire exactement quoi faire (nœud, propriété, valeur).
+- Code complet en fichier téléchargeable, commenté, avec nom du nœud et emplacement du script.
+- Attendre la validation avant de passer à l'étape suivante.
+- Demander une capture si l'état est ambigu ou si un fichier n'est pas connu.
+- Tout ce que je te dis tu l'intègre.
+
+DIRECTION ARTISTIQUE
+- Style : pixel art top-down en 16 × 16 px, avec une identité visuelle cohérente sur l’ensemble du monde.
+- les sprites des digimon sont déja dispo.
+- Joueur et décors : même densité de pixels (16x16). déja dispo
+- Rendu : Texture Filter = Nearest (Projet > Rendering > Textures > Default Texture
+  Filter), sinon flou. Mipmaps = off.
+- Zoom par Camera2D (zoom 3 ou 4), jamais par redimensionnement des sprites.
+
+DESIGN UI
+- Cyan : éléments interactifs, titres, sélections.
+- Orange : accents, sous-titres, éléments importants.
+- Bleu nuit (~#080d1a) : fonds. Gris : éléments désactivés.
+- Theme Godot (.tres) commun à prévoir.
+
+
+
+
+SYSTÈMES de BASE
+- Digimon compagnon : suit le joueur, se bat en arène, contre partenaires des bots et
+  sauvages. Stades : Egg, Baby I, Baby II, Child, Teen, Ultimate, Mega.
+  Stats : HP, AP, Poids, Faim, Force. Évolution selon niveau, zones, soin, effort,
+  quêtes. Plus lourd = plus fort mais plus lent.
+- Changement de Digimon via centres de données. 3 Digimon max : 1 actif + 2 en backup.
+- DigiGem : monnaie, autoload DigiGem.gd (add, spend, can_afford, signal gem_changed).
+- Emblèmes : 1 demi par arène, 2 demis = 1 emblème. Ver.1 : 30 demis (15 complets).
+  Ver.2 et 3 : 46 demis (23 complets). Tous collectés = portail final ouvert.
+  Autoload EmblemManager.gd. Chaque emblème : couleur, symbole, nom uniques.
+- Arènes : 3 à 5 combats de bots puis boss gardien. Rejouables, demi une seule fois.
+  Récompense : DigiGem + 1 item aléatoire.
+- Bots : DigiTamers qui patrouillent (3 à 8 par zone), combats aléatoires hors arène
+  (30 à 50 %), fuite possible, récompense DigiGem (argent du jeu) + item (~20 %). Autoload BotManager.gd.
+- Marchands : 2 items fixes, prix DigiGem, stock infini, 1 par 3 zones.
+  merchant.json. Autoload MerchantManager.gd.
+- Inventaire : Inventory.gd. FOOD permanents : Meat, Protein, Filling Meat, Big Protein.
+  BOOST temporaires (1 arène ou 1 combat digimon vs digimon sauvage) : Power Board, HP Rom, AP Chip, Seven Switch,
+  Jumper Gate, EXP Coat.
+- Menus : paramètres, inventaire, interaction avec le Digimon.
+- NPC : donneurs de quêtes, infos, lore. Interaction touche E.
+- Quêtes : QuestManager.gd, dmx_quetes.json.
+- Combat : tour par tour(digimon vs digimon), triangle des types (dmx_regles.json).
+- Versions X : Ver.1 (XA/XB), Ver.2 (XC/XD), Ver.3 (XE/XF). VersionManager.gd.
+- Ver 1 a terminer en premier.
+
+=== FIN ===

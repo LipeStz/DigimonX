@@ -1,0 +1,120 @@
+[gd_scene format=3 uid="uid://3xeoinob4e2b"]
+
+[ext_resource type="Script" uid="uid://cvbjl3sib5fgi" path="res://scripts/character_creation.gd" id="1_iml8c"]
+[ext_resource type="Script" uid="uid://dw1ease34a8wg" path="res://scripts/ApercuPersonnage.gd" id="2_preview"]
+
+[node name="CharacterCreation" type="Control" unique_id=943932084]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_iml8c")
+
+[node name="Background" type="ColorRect" parent="." unique_id=349700626]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0.03137255, 0.050980393, 0.101960786, 1)
+
+[node name="Margin" type="MarginContainer" parent="." unique_id=1028428854]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/margin_left = 24
+theme_override_constants/margin_top = 16
+theme_override_constants/margin_right = 24
+theme_override_constants/margin_bottom = 16
+
+[node name="Main" type="VBoxContainer" parent="Margin" unique_id=1554088399]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="TitleLabel" type="Label" parent="Margin/Main" unique_id=141033128]
+layout_mode = 2
+theme_override_font_sizes/font_size = 28
+text = "Qui es-tu ? À quoi ressembles-tu ?"
+horizontal_alignment = 1
+
+[node name="Content" type="HBoxContainer" parent="Margin/Main" unique_id=325670294]
+layout_mode = 2
+size_flags_vertical = 3
+theme_override_constants/separation = 24
+
+[node name="PreviewColumn" type="VBoxContainer" parent="Margin/Main/Content" unique_id=1225444297]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_stretch_ratio = 0.8
+
+[node name="PreviewCenter" type="CenterContainer" parent="Margin/Main/Content/PreviewColumn" unique_id=1043517870]
+custom_minimum_size = Vector2(256, 384)
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="CharacterPreview" type="Node2D" parent="Margin/Main/Content/PreviewColumn/PreviewCenter" unique_id=1099601533]
+position = Vector2(128, 200)
+scale = Vector2(4, 4)
+script = ExtResource("2_preview")
+
+[node name="FormScroll" type="ScrollContainer" parent="Margin/Main/Content" unique_id=1706501752]
+layout_mode = 2
+size_flags_horizontal = 3
+horizontal_scroll_mode = 0
+
+[node name="FormColumn" type="VBoxContainer" parent="Margin/Main/Content/FormScroll" unique_id=1104185476]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/separation = 8
+
+[node name="NameLabel" type="Label" parent="Margin/Main/Content/FormScroll/FormColumn" unique_id=1274462370]
+layout_mode = 2
+text = "Nom"
+
+[node name="NameInput" type="LineEdit" parent="Margin/Main/Content/FormScroll/FormColumn" unique_id=1607770437]
+layout_mode = 2
+placeholder_text = "Nom du JOUEUR"
+max_length = 20
+
+[node name="GenderLabel" type="Label" parent="Margin/Main/Content/FormScroll/FormColumn" unique_id=374121895]
+layout_mode = 2
+text = "Sexe"
+
+[node name="GenderOption" type="OptionButton" parent="Margin/Main/Content/FormScroll/FormColumn" unique_id=2043933866]
+layout_mode = 2
+item_count = 3
+popup/item_0/text = "Garçon"
+popup/item_0/id = 0
+popup/item_1/text = "Fille"
+popup/item_1/id = 1
+popup/item_2/text = "oui 3x par jour"
+popup/item_2/id = 2
+
+[node name="CategoryTabs" type="HBoxContainer" parent="Margin/Main/Content/FormScroll/FormColumn" unique_id=174807864]
+layout_mode = 2
+
+[node name="StyleLabel" type="Label" parent="Margin/Main/Content/FormScroll/FormColumn" unique_id=1032485209]
+layout_mode = 2
+text = "Style"
+
+[node name="StyleGrid" type="GridContainer" parent="Margin/Main/Content/FormScroll/FormColumn" unique_id=1433990274]
+layout_mode = 2
+columns = 6
+
+[node name="ColorLabel" type="Label" parent="Margin/Main/Content/FormScroll/FormColumn" unique_id=638010107]
+layout_mode = 2
+text = "Couleur"
+
+[node name="ColorGrid" type="GridContainer" parent="Margin/Main/Content/FormScroll/FormColumn" unique_id=1862273511]
+layout_mode = 2
+columns = 8
+
+[node name="ValidateButton" type="Button" parent="Margin/Main/Content/FormScroll/FormColumn" unique_id=799521661]
+layout_mode = 2
+text = "Valider"

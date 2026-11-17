@@ -1,0 +1,2774 @@
+[
+ {
+  "id": "XKW00",
+  "serie": "X1 (XA/XB)",
+  "nom": "Puttimon",
+  "stade": "I",
+  "stade_nom": "Bébé 1",
+  "type": "Free",
+  "bibliotheque": 1,
+  "puissance": null,
+  "image": "putti",
+  "versions": [
+   "XA",
+   "XB"
+  ]
+ },
+ {
+  "id": "XKW01",
+  "serie": "X1 (XA/XB)",
+  "nom": "Tokomon X",
+  "stade": "II",
+  "stade_nom": "Bébé 2",
+  "type": "Free",
+  "bibliotheque": 2,
+  "puissance": 4,
+  "image": "toko_x",
+  "versions": [
+   "XA",
+   "XB"
+  ]
+ },
+ {
+  "id": "XKW02",
+  "serie": "X1 (XA/XB)",
+  "nom": "Dracomon X",
+  "stade": "III",
+  "stade_nom": "Enfant",
+  "type": "Data",
+  "bibliotheque": 3,
+  "puissance": 22,
+  "image": "draco_x",
+  "versions": [
+   "XB"
+  ]
+ },
+ {
+  "id": "XKW03",
+  "serie": "X1 (XA/XB)",
+  "nom": "Gabumon X",
+  "stade": "III",
+  "stade_nom": "Enfant",
+  "type": "Data",
+  "bibliotheque": 4,
+  "puissance": 16,
+  "image": "gabu_x",
+  "versions": [
+   "XB"
+  ]
+ },
+ {
+  "id": "XKW04",
+  "serie": "X1 (XA/XB)",
+  "nom": "Sistermon Blanc",
+  "stade": "III",
+  "stade_nom": "Enfant",
+  "type": "Vaccin",
+  "bibliotheque": 5,
+  "puissance": 10,
+  "image": "sister_b",
+  "versions": [
+   "XB"
+  ]
+ },
+ {
+  "id": "XKW05",
+  "serie": "X1 (XA/XB)",
+  "nom": "Renamon X",
+  "stade": "III",
+  "stade_nom": "Enfant",
+  "type": "Data",
+  "bibliotheque": 3,
+  "puissance": 22,
+  "image": "rena_x",
+  "versions": [
+   "XA"
+  ]
+ },
+ {
+  "id": "XKW06",
+  "serie": "X1 (XA/XB)",
+  "nom": "Agumon X",
+  "stade": "III",
+  "stade_nom": "Enfant",
+  "type": "Vaccin",
+  "bibliotheque": 4,
+  "puissance": 16,
+  "image": "agu_x",
+  "versions": [
+   "XA"
+  ]
+ },
+ {
+  "id": "XKW07",
+  "serie": "X1 (XA/XB)",
+  "nom": "Herissmon",
+  "stade": "III",
+  "stade_nom": "Enfant",
+  "type": "Data",
+  "bibliotheque": 5,
+  "puissance": 10,
+  "image": "heriss",
+  "versions": [
+   "XA",
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XKW08",
+  "serie": "X1 (XA/XB)",
+  "nom": "Growmon X",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Virus",
+  "bibliotheque": 6,
+  "puissance": 46,
+  "image": "grow_x",
+  "versions": [
+   "XB"
+  ]
+ },
+ {
+  "id": "XKW09",
+  "serie": "X1 (XA/XB)",
+  "nom": "Rhinomon X",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Vaccin",
+  "bibliotheque": 7,
+  "puissance": 62,
+  "image": "rhino_x",
+  "versions": [
+   "XB"
+  ]
+ },
+ {
+  "id": "XKW10",
+  "serie": "X1 (XA/XB)",
+  "nom": "Sistermon Ciel",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Data",
+  "bibliotheque": 8,
+  "puissance": 54,
+  "image": "sister_c",
+  "versions": [
+   "XB"
+  ]
+ },
+ {
+  "id": "XKW11",
+  "serie": "X1 (XA/XB)",
+  "nom": "Leomon X",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Vaccin",
+  "bibliotheque": 6,
+  "puissance": 46,
+  "image": "leo_x",
+  "versions": [
+   "XA"
+  ]
+ },
+ {
+  "id": "XKW12",
+  "serie": "X1 (XA/XB)",
+  "nom": "Tyranomon X",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Data",
+  "bibliotheque": 7,
+  "puissance": 62,
+  "image": "tyrano_x",
+  "versions": [
+   "XA"
+  ]
+ },
+ {
+  "id": "XKW13",
+  "serie": "X1 (XA/XB)",
+  "nom": "Sangloupmon",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Virus",
+  "bibliotheque": 8,
+  "puissance": 54,
+  "image": "sangloup",
+  "versions": [
+   "XA"
+  ]
+ },
+ {
+  "id": "XKW14",
+  "serie": "X1 (XA/XB)",
+  "nom": "Damemon",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Free",
+  "bibliotheque": 10,
+  "puissance": 70,
+  "image": "dame",
+  "versions": [
+   "XA",
+   "XB"
+  ]
+ },
+ {
+  "id": "XKW15",
+  "serie": "X1 (XA/XB)",
+  "nom": "Megalo Growmon X",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Virus",
+  "bibliotheque": 11,
+  "puissance": 124,
+  "image": "megalogrow_x",
+  "versions": [
+   "XB"
+  ]
+ },
+ {
+  "id": "XKW16",
+  "serie": "X1 (XA/XB)",
+  "nom": "Were Garurumon X",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Data",
+  "bibliotheque": 12,
+  "puissance": 116,
+  "image": "weregaruru_x",
+  "versions": [
+   "XB"
+  ]
+ },
+ {
+  "id": "XKW17",
+  "serie": "X1 (XA/XB)",
+  "nom": "Cho-Hakkaimon",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Data",
+  "bibliotheque": 13,
+  "puissance": 96,
+  "image": "chohakkai",
+  "versions": [
+   "XB"
+  ]
+ },
+ {
+  "id": "XKW18",
+  "serie": "X1 (XA/XB)",
+  "nom": "Lilimon X",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Data",
+  "bibliotheque": 14,
+  "puissance": 104,
+  "image": "lili_x",
+  "versions": [
+   "XB"
+  ]
+ },
+ {
+  "id": "XKW19",
+  "serie": "X1 (XA/XB)",
+  "nom": "Cerberumon X",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Vaccin",
+  "bibliotheque": 11,
+  "puissance": 124,
+  "image": "cerberu_x",
+  "versions": [
+   "XA"
+  ]
+ },
+ {
+  "id": "XKW20",
+  "serie": "X1 (XA/XB)",
+  "nom": "Metal Greymon X",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Vaccin",
+  "bibliotheque": 12,
+  "puissance": 116,
+  "image": "metalgrey_va_x",
+  "versions": [
+   "XA"
+  ]
+ },
+ {
+  "id": "XKW21",
+  "serie": "X1 (XA/XB)",
+  "nom": "Lucemon: Falldown Mode",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Virus",
+  "bibliotheque": 13,
+  "puissance": 104,
+  "image": "luce_f",
+  "versions": [
+   "XA"
+  ]
+ },
+ {
+  "id": "XKW22",
+  "serie": "X1 (XA/XB)",
+  "nom": "Skull Baluchimon",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Data",
+  "bibliotheque": 14,
+  "puissance": 96,
+  "image": "skullbaluchi",
+  "versions": [
+   "XA"
+  ]
+ },
+ {
+  "id": "XKW23",
+  "serie": "X1 (XA/XB)",
+  "nom": "Metal Tyranomon X",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Virus",
+  "bibliotheque": 15,
+  "puissance": 110,
+  "image": "metaltyrano_x",
+  "versions": [
+   "XA",
+   "XB"
+  ]
+ },
+ {
+  "id": "XKW24",
+  "serie": "X1 (XA/XB)",
+  "nom": "Yatagaramon",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Vaccin",
+  "bibliotheque": 16,
+  "puissance": 88,
+  "image": "yatagara",
+  "versions": [
+   "XA",
+   "XB"
+  ]
+ },
+ {
+  "id": "XKW25",
+  "serie": "X1 (XA/XB)",
+  "nom": "Craniummon X",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Vaccin",
+  "bibliotheque": 17,
+  "puissance": 172,
+  "image": "cranium_x",
+  "versions": [
+   "XB",
+   "XE"
+  ]
+ },
+ {
+  "id": "XKW26",
+  "serie": "X1 (XA/XB)",
+  "nom": "Metal Garurumon X",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Data",
+  "bibliotheque": 18,
+  "puissance": 158,
+  "image": "metalgaruru_x",
+  "versions": [
+   "XB"
+  ]
+ },
+ {
+  "id": "XKW27",
+  "serie": "X1 (XA/XB)",
+  "nom": "Beel Starmon X",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Virus",
+  "bibliotheque": 19,
+  "puissance": 180,
+  "image": "beelstar_x",
+  "versions": [
+   "XB",
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XKW28",
+  "serie": "X1 (XA/XB)",
+  "nom": "Megidramon X",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Virus",
+  "bibliotheque": 20,
+  "puissance": 166,
+  "image": "megidra_x",
+  "versions": [
+   "XB"
+  ]
+ },
+ {
+  "id": "XKW29",
+  "serie": "X1 (XA/XB)",
+  "nom": "Sleipmon X",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Vaccin",
+  "bibliotheque": 17,
+  "puissance": 172,
+  "image": "sleip_x",
+  "versions": [
+   "XA",
+   "XF"
+  ]
+ },
+ {
+  "id": "XKW30",
+  "serie": "X1 (XA/XB)",
+  "nom": "War Greymon X",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Vaccin",
+  "bibliotheque": 18,
+  "puissance": 158,
+  "image": "wargrey_x",
+  "versions": [
+   "XA"
+  ]
+ },
+ {
+  "id": "XKW31",
+  "serie": "X1 (XA/XB)",
+  "nom": "Sakuyamon X",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Data",
+  "bibliotheque": 19,
+  "puissance": 180,
+  "image": "sakuya_x",
+  "versions": [
+   "XA"
+  ]
+ },
+ {
+  "id": "XKW32",
+  "serie": "X1 (XA/XB)",
+  "nom": "Beelzebumon X",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Virus",
+  "bibliotheque": 20,
+  "puissance": 166,
+  "image": "beelzebu_x",
+  "versions": [
+   "XA",
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XKW33",
+  "serie": "X1 (XA/XB)",
+  "nom": "Jesmon X",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Vaccin",
+  "bibliotheque": 21,
+  "puissance": 176,
+  "image": "jes_x",
+  "versions": [
+   "XA",
+   "XB",
+   "XF"
+  ]
+ },
+ {
+  "id": "XKW34",
+  "serie": "X1 (XA/XB)",
+  "nom": "Valdurmon",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Vaccin",
+  "bibliotheque": 22,
+  "puissance": 140,
+  "image": "valdur",
+  "versions": [
+   "XA",
+   "XB"
+  ]
+ },
+ {
+  "id": "XKW35",
+  "serie": "X1 (XA/XB)",
+  "nom": "Belial Vamdemon",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Virus",
+  "bibliotheque": 23,
+  "puissance": 162,
+  "image": "belialvamde",
+  "versions": [
+   "XA",
+   "XB"
+  ]
+ },
+ {
+  "id": "XKW36",
+  "serie": "X1 (XA/XB)",
+  "nom": "Rafflesimon",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Data",
+  "bibliotheque": 24,
+  "puissance": 152,
+  "image": "rafflesi",
+  "versions": [
+   "XA",
+   "XB"
+  ]
+ },
+ {
+  "id": "XKW37",
+  "serie": "X1 (XA/XB)",
+  "nom": "Platinum Numemon",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Virus",
+  "bibliotheque": 25,
+  "puissance": 146,
+  "image": "platinumnume",
+  "versions": [
+   "XA",
+   "XB"
+  ]
+ },
+ {
+  "id": "XKW38",
+  "serie": "X1 (XA/XB)",
+  "nom": "Omegamon X",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Vaccin",
+  "bibliotheque": 26,
+  "puissance": 196,
+  "image": "omega_x",
+  "versions": [
+   "XA",
+   "XB",
+   "XF"
+  ]
+ },
+ {
+  "id": "XKW39",
+  "serie": "X1 (XA/XB)",
+  "nom": "Diablomon X",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Free",
+  "bibliotheque": 27,
+  "puissance": 220,
+  "image": "diablo_x",
+  "versions": [
+   "XA",
+   "XB",
+   "XC",
+   "XD",
+   "XE",
+   "XF"
+  ]
+ },
+ {
+  "id": "XKW40",
+  "serie": "X1 (XA/XB)",
+  "nom": "Dukemon X",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Virus",
+  "bibliotheque": 30,
+  "puissance": 202,
+  "image": "duke_x",
+  "versions": [
+   "XA",
+   "XB",
+   "XE"
+  ]
+ },
+ {
+  "id": "XKW41",
+  "serie": "X1 (XA/XB)",
+  "nom": "Alphamon",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Vaccin",
+  "bibliotheque": 28,
+  "puissance": 190,
+  "image": "alpha",
+  "versions": [
+   "XA",
+   "XB",
+   "XE"
+  ]
+ },
+ {
+  "id": "XKW42",
+  "serie": "X1 (XA/XB)",
+  "nom": "Minervamon X",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Virus",
+  "bibliotheque": 29,
+  "puissance": 210,
+  "image": "minerva_x",
+  "versions": [
+   "XA"
+  ]
+ },
+ {
+  "id": "XKW43",
+  "serie": "X1 (XA/XB)",
+  "nom": "Lord Knightmon X",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Virus",
+  "bibliotheque": 29,
+  "puissance": 210,
+  "image": "lordknight_x",
+  "versions": [
+   "XB",
+   "XE"
+  ]
+ },
+ {
+  "id": "XKW44",
+  "serie": "X1 (XA/XB)",
+  "nom": "Tobucatmon",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Data",
+  "bibliotheque": 9,
+  "puissance": 36,
+  "image": "tobucat",
+  "versions": [
+   "XA",
+   "XB"
+  ]
+ },
+ {
+  "id": "XRP00",
+  "serie": "X2 (XC/XD)",
+  "nom": "Kiimon",
+  "stade": "I",
+  "stade_nom": "Bébé 1",
+  "type": "Free",
+  "bibliotheque": 1,
+  "puissance": null,
+  "image": "kii",
+  "versions": [
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP01",
+  "serie": "X2 (XC/XD)",
+  "nom": "Yaamon",
+  "stade": "II",
+  "stade_nom": "Bébé 2",
+  "type": "Free",
+  "bibliotheque": 2,
+  "puissance": 4,
+  "image": "yaa",
+  "versions": [
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP02",
+  "serie": "X2 (XC/XD)",
+  "nom": "Agumon (Black) X",
+  "stade": "III",
+  "stade_nom": "Enfant",
+  "type": "Virus",
+  "bibliotheque": 3,
+  "puissance": 22,
+  "image": "agu_b_x",
+  "versions": [
+   "XC"
+  ]
+ },
+ {
+  "id": "XRP03",
+  "serie": "X2 (XC/XD)",
+  "nom": "Gomamon X",
+  "stade": "III",
+  "stade_nom": "Enfant",
+  "type": "Vaccin",
+  "bibliotheque": 4,
+  "puissance": 10,
+  "image": "goma_x",
+  "versions": [
+   "XC"
+  ]
+ },
+ {
+  "id": "XRP04",
+  "serie": "X2 (XC/XD)",
+  "nom": "Kokuwamon X",
+  "stade": "III",
+  "stade_nom": "Enfant",
+  "type": "Data",
+  "bibliotheque": 5,
+  "puissance": 16,
+  "image": "kokuwa_x",
+  "versions": [
+   "XC"
+  ]
+ },
+ {
+  "id": "XRP05",
+  "serie": "X2 (XC/XD)",
+  "nom": "Impmon X",
+  "stade": "III",
+  "stade_nom": "Enfant",
+  "type": "Virus",
+  "bibliotheque": 3,
+  "puissance": 22,
+  "image": "imp_x",
+  "versions": [
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP06",
+  "serie": "X2 (XC/XD)",
+  "nom": "Plotmon X",
+  "stade": "III",
+  "stade_nom": "Enfant",
+  "type": "Vaccin",
+  "bibliotheque": 4,
+  "puissance": 10,
+  "image": "plot_x",
+  "versions": [
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP07",
+  "serie": "X2 (XC/XD)",
+  "nom": "Otamamon X",
+  "stade": "III",
+  "stade_nom": "Enfant",
+  "type": "Virus",
+  "bibliotheque": 5,
+  "puissance": 16,
+  "image": "otama_x",
+  "versions": [
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP08",
+  "serie": "X2 (XC/XD)",
+  "nom": "Herissmon",
+  "stade": "III",
+  "stade_nom": "Enfant",
+  "type": "Data",
+  "bibliotheque": 6,
+  "puissance": 14,
+  "image": "heriss",
+  "versions": [
+   "XA",
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP09",
+  "serie": "X2 (XC/XD)",
+  "nom": "Duskmon",
+  "stade": "III",
+  "stade_nom": "Enfant",
+  "type": "Free",
+  "bibliotheque": 7,
+  "puissance": 40,
+  "image": "dusk",
+  "versions": [
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP10",
+  "serie": "X2 (XC/XD)",
+  "nom": "Dark Tyranomon X",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Virus",
+  "bibliotheque": 8,
+  "puissance": 62,
+  "image": "darktyrano_x",
+  "versions": [
+   "XC"
+  ]
+ },
+ {
+  "id": "XRP11",
+  "serie": "X2 (XC/XD)",
+  "nom": "Mantaraymon X",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Vaccin",
+  "bibliotheque": 9,
+  "puissance": 54,
+  "image": "mantaray_x",
+  "versions": [
+   "XC"
+  ]
+ },
+ {
+  "id": "XRP12",
+  "serie": "X2 (XC/XD)",
+  "nom": "Kuwagamon X",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Virus",
+  "bibliotheque": 10,
+  "puissance": 46,
+  "image": "kuwaga_x",
+  "versions": [
+   "XC"
+  ]
+ },
+ {
+  "id": "XRP13",
+  "serie": "X2 (XC/XD)",
+  "nom": "Ogremon X",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Virus",
+  "bibliotheque": 8,
+  "puissance": 62,
+  "image": "ogre_x",
+  "versions": [
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP14",
+  "serie": "X2 (XC/XD)",
+  "nom": "Nefertimon X",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Vaccin",
+  "bibliotheque": 9,
+  "puissance": 46,
+  "image": "neferti_x",
+  "versions": [
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP15",
+  "serie": "X2 (XC/XD)",
+  "nom": "Seadramon X",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Data",
+  "bibliotheque": 10,
+  "puissance": 54,
+  "image": "seadra_x",
+  "versions": [
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP16",
+  "serie": "X2 (XC/XD)",
+  "nom": "Allomon X",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Data",
+  "bibliotheque": 11,
+  "puissance": 36,
+  "image": "allo_x",
+  "versions": [
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP17",
+  "serie": "X2 (XC/XD)",
+  "nom": "Numemon X",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Virus",
+  "bibliotheque": 12,
+  "puissance": 70,
+  "image": "nume_x",
+  "versions": [
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP18",
+  "serie": "X2 (XC/XD)",
+  "nom": "Filmon",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Data",
+  "bibliotheque": 13,
+  "puissance": 58,
+  "image": "fil",
+  "versions": [
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP19",
+  "serie": "X2 (XC/XD)",
+  "nom": "Velgrmon",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Free",
+  "bibliotheque": 14,
+  "puissance": 64,
+  "image": "velgr",
+  "versions": [
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP20",
+  "serie": "X2 (XC/XD)",
+  "nom": "Metal Greymon (Virus) X",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Virus",
+  "bibliotheque": 15,
+  "puissance": 124,
+  "image": "metalgrey_vi_x",
+  "versions": [
+   "XC"
+  ]
+ },
+ {
+  "id": "XRP21",
+  "serie": "X2 (XC/XD)",
+  "nom": "Lady Devimon X",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Virus",
+  "bibliotheque": 16,
+  "puissance": 116,
+  "image": "ladydevi_x",
+  "versions": [
+   "XC"
+  ]
+ },
+ {
+  "id": "XRP22",
+  "serie": "X2 (XC/XD)",
+  "nom": "Okuwamon X",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Virus",
+  "bibliotheque": 17,
+  "puissance": 96,
+  "image": "okuwa_x",
+  "versions": [
+   "XC"
+  ]
+ },
+ {
+  "id": "XRP23",
+  "serie": "X2 (XC/XD)",
+  "nom": "Triceramon X",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Data",
+  "bibliotheque": 18,
+  "puissance": 104,
+  "image": "tricera_x",
+  "versions": [
+   "XC"
+  ]
+ },
+ {
+  "id": "XRP24",
+  "serie": "X2 (XC/XD)",
+  "nom": "Vamdemon X",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Virus",
+  "bibliotheque": 15,
+  "puissance": 124,
+  "image": "vamde_x",
+  "versions": [
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP25",
+  "serie": "X2 (XC/XD)",
+  "nom": "Mephismon X",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Virus",
+  "bibliotheque": 16,
+  "puissance": 116,
+  "image": "mephis_x",
+  "versions": [
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP26",
+  "serie": "X2 (XC/XD)",
+  "nom": "Mega Seadramon X",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Data",
+  "bibliotheque": 17,
+  "puissance": 104,
+  "image": "megaseadra_x",
+  "versions": [
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP27",
+  "serie": "X2 (XC/XD)",
+  "nom": "Metal Fantomon",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Data",
+  "bibliotheque": 18,
+  "puissance": 96,
+  "image": "metalfanto",
+  "versions": [
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP28",
+  "serie": "X2 (XC/XD)",
+  "nom": "Mammon X",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Vaccin",
+  "bibliotheque": 19,
+  "puissance": 112,
+  "image": "mam_x",
+  "versions": [
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP29",
+  "serie": "X2 (XC/XD)",
+  "nom": "Mametyramon",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Data",
+  "bibliotheque": 20,
+  "puissance": 88,
+  "image": "mametyra",
+  "versions": [
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP30",
+  "serie": "X2 (XC/XD)",
+  "nom": "Stiffilmon",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Data",
+  "bibliotheque": 21,
+  "puissance": 100,
+  "image": "stiffil",
+  "versions": [
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP31",
+  "serie": "X2 (XC/XD)",
+  "nom": "Kaiser Leomon",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Free",
+  "bibliotheque": 22,
+  "puissance": 120,
+  "image": "kaiserleo",
+  "versions": [
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP32",
+  "serie": "X2 (XC/XD)",
+  "nom": "Black War Greymon X",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Virus",
+  "bibliotheque": 23,
+  "puissance": 180,
+  "image": "blackwargrey_x",
+  "versions": [
+   "XC"
+  ]
+ },
+ {
+  "id": "XRP33",
+  "serie": "X2 (XC/XD)",
+  "nom": "Ofanimon: Falldown Mode X",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Vaccin",
+  "bibliotheque": 24,
+  "puissance": 174,
+  "image": "ofani_fdm_x",
+  "versions": [
+   "XC"
+  ]
+ },
+ {
+  "id": "XRP34",
+  "serie": "X2 (XC/XD)",
+  "nom": "Grandis Kuwagamon",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Virus",
+  "bibliotheque": 25,
+  "puissance": 166,
+  "image": "grandiskuwaga",
+  "versions": [
+   "XC"
+  ]
+ },
+ {
+  "id": "XRP35",
+  "serie": "X2 (XC/XD)",
+  "nom": "Ultimate Brachiomon",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Data",
+  "bibliotheque": 26,
+  "puissance": 160,
+  "image": "ultimatebrachi",
+  "versions": [
+   "XC"
+  ]
+ },
+ {
+  "id": "XRP36",
+  "serie": "X2 (XC/XD)",
+  "nom": "Dark Knightmon X",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Virus",
+  "bibliotheque": 23,
+  "puissance": 180,
+  "image": "darkknight_x",
+  "versions": [
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP37",
+  "serie": "X2 (XC/XD)",
+  "nom": "Cherubimon (Vice) X",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Vaccin",
+  "bibliotheque": 24,
+  "puissance": 174,
+  "image": "cherubi_vice_x",
+  "versions": [
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP38",
+  "serie": "X2 (XC/XD)",
+  "nom": "Giga Seadramon",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Data",
+  "bibliotheque": 25,
+  "puissance": 166,
+  "image": "gigaseadra",
+  "versions": [
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP39",
+  "serie": "X2 (XC/XD)",
+  "nom": "Dinorexmon",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Data",
+  "bibliotheque": 26,
+  "puissance": 160,
+  "image": "dinorex",
+  "versions": [
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP40",
+  "serie": "X2 (XC/XD)",
+  "nom": "Chaosdramon X",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Virus",
+  "bibliotheque": 27,
+  "puissance": 172,
+  "image": "chaosdra_x",
+  "versions": [
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP41",
+  "serie": "X2 (XC/XD)",
+  "nom": "Rosemon X",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Data",
+  "bibliotheque": 28,
+  "puissance": 156,
+  "image": "rose_x",
+  "versions": [
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP42",
+  "serie": "X2 (XC/XD)",
+  "nom": "Beel Starmon X",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Virus",
+  "bibliotheque": 29,
+  "puissance": 152,
+  "image": "beelstar_x",
+  "versions": [
+   "XB",
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP43",
+  "serie": "X2 (XC/XD)",
+  "nom": "Prince Mamemon X",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Data",
+  "bibliotheque": 30,
+  "puissance": 148,
+  "image": "princemame_x",
+  "versions": [
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP44",
+  "serie": "X2 (XC/XD)",
+  "nom": "Skull Mammon X",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Vaccin",
+  "bibliotheque": 31,
+  "puissance": 144,
+  "image": "skullmam_x",
+  "versions": [
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP45",
+  "serie": "X2 (XC/XD)",
+  "nom": "Metal Piranimon",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Virus",
+  "bibliotheque": 32,
+  "puissance": 140,
+  "image": "metalpirani",
+  "versions": [
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP46",
+  "serie": "X2 (XC/XD)",
+  "nom": "Rasenmon: Fury Mode",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Data",
+  "bibliotheque": 33,
+  "puissance": 170,
+  "image": "rasen_fm",
+  "versions": [
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP47",
+  "serie": "X2 (XC/XD)",
+  "nom": "Raihimon",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Free",
+  "bibliotheque": 34,
+  "puissance": 164,
+  "image": "raihi",
+  "versions": [
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP48",
+  "serie": "X2 (XC/XD)",
+  "nom": "Bagramon",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Free",
+  "bibliotheque": 35,
+  "puissance": 176,
+  "image": "bagra",
+  "versions": [
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP49",
+  "serie": "X2 (XC/XD)",
+  "nom": "Demon X",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Virus",
+  "bibliotheque": 36,
+  "puissance": 210,
+  "image": "de_x",
+  "versions": [
+   "XC"
+  ]
+ },
+ {
+  "id": "XRP50",
+  "serie": "X2 (XC/XD)",
+  "nom": "Lilithmon X",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Virus",
+  "bibliotheque": 37,
+  "puissance": 198,
+  "image": "lilith_x",
+  "versions": [
+   "XC"
+  ]
+ },
+ {
+  "id": "XRP51",
+  "serie": "X2 (XC/XD)",
+  "nom": "Lucemon X",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Virus",
+  "bibliotheque": 36,
+  "puissance": 210,
+  "image": "luce_x",
+  "versions": [
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP52",
+  "serie": "X2 (XC/XD)",
+  "nom": "Belphemon X",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Virus",
+  "bibliotheque": 37,
+  "puissance": 198,
+  "image": "belphe_x",
+  "versions": [
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP53",
+  "serie": "X2 (XC/XD)",
+  "nom": "Leviamon X",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Virus",
+  "bibliotheque": 38,
+  "puissance": 204,
+  "image": "levia_x",
+  "versions": [
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP54",
+  "serie": "X2 (XC/XD)",
+  "nom": "Barbamon X",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Virus",
+  "bibliotheque": 39,
+  "puissance": 192,
+  "image": "barba_x",
+  "versions": [
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP55",
+  "serie": "X2 (XC/XD)",
+  "nom": "Beelzebumon X",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Virus",
+  "bibliotheque": 40,
+  "puissance": 190,
+  "image": "beelzebu_x",
+  "versions": [
+   "XA",
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP56",
+  "serie": "X2 (XC/XD)",
+  "nom": "Diablomon X",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Free",
+  "bibliotheque": 41,
+  "puissance": 186,
+  "image": "diablo_x",
+  "versions": [
+   "XA",
+   "XB",
+   "XC",
+   "XD",
+   "XE",
+   "XF"
+  ]
+ },
+ {
+  "id": "XRP57",
+  "serie": "X2 (XC/XD)",
+  "nom": "Rasenmon",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Data",
+  "bibliotheque": 42,
+  "puissance": 202,
+  "image": "rasen",
+  "versions": [
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP58",
+  "serie": "X2 (XC/XD)",
+  "nom": "Ancient Sphinxmon",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Virus",
+  "bibliotheque": 43,
+  "puissance": 196,
+  "image": "ancientsphinx",
+  "versions": [
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XRP59",
+  "serie": "X2 (XC/XD)",
+  "nom": "Darkness Bagramon",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Free",
+  "bibliotheque": 44,
+  "puissance": 208,
+  "image": "darknessbagra",
+  "versions": [
+   "XC",
+   "XD"
+  ]
+ },
+ {
+  "id": "XYB00",
+  "serie": "X3 (XE/XF)",
+  "nom": "Zerimon",
+  "stade": "I",
+  "stade_nom": "Bébé 1",
+  "type": "Free",
+  "bibliotheque": 1,
+  "puissance": null,
+  "image": "zeri",
+  "versions": [
+   "XE"
+  ]
+ },
+ {
+  "id": "XYB01",
+  "serie": "X3 (XE/XF)",
+  "nom": "Cocomon",
+  "stade": "I",
+  "stade_nom": "Bébé 1",
+  "type": "Free",
+  "bibliotheque": 1,
+  "puissance": null,
+  "image": "coco",
+  "versions": [
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB02",
+  "serie": "X3 (XE/XF)",
+  "nom": "Kuramon",
+  "stade": "I",
+  "stade_nom": "Bébé 1",
+  "type": "Free",
+  "bibliotheque": 2,
+  "puissance": null,
+  "image": "kura",
+  "versions": [
+   "XE",
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB03",
+  "serie": "X3 (XE/XF)",
+  "nom": "Gummymon",
+  "stade": "II",
+  "stade_nom": "Bébé 2",
+  "type": "Free",
+  "bibliotheque": 3,
+  "puissance": 2,
+  "image": "gummy",
+  "versions": [
+   "XE"
+  ]
+ },
+ {
+  "id": "XYB04",
+  "serie": "X3 (XE/XF)",
+  "nom": "Chocomon",
+  "stade": "II",
+  "stade_nom": "Bébé 2",
+  "type": "Free",
+  "bibliotheque": 3,
+  "puissance": 2,
+  "image": "choco",
+  "versions": [
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB05",
+  "serie": "X3 (XE/XF)",
+  "nom": "Tsumemon",
+  "stade": "II",
+  "stade_nom": "Bébé 2",
+  "type": "Free",
+  "bibliotheque": 4,
+  "puissance": 18,
+  "image": "tsume",
+  "versions": [
+   "XE",
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB06",
+  "serie": "X3 (XE/XF)",
+  "nom": "Terriermon X",
+  "stade": "III",
+  "stade_nom": "Enfant",
+  "type": "Vaccin",
+  "bibliotheque": 5,
+  "puissance": 20,
+  "image": "terrier_x",
+  "versions": [
+   "XE"
+  ]
+ },
+ {
+  "id": "XYB07",
+  "serie": "X3 (XE/XF)",
+  "nom": "Palmon X",
+  "stade": "III",
+  "stade_nom": "Enfant",
+  "type": "Data",
+  "bibliotheque": 6,
+  "puissance": 8,
+  "image": "pal_x",
+  "versions": [
+   "XE"
+  ]
+ },
+ {
+  "id": "XYB08",
+  "serie": "X3 (XE/XF)",
+  "nom": "DORUmon",
+  "stade": "III",
+  "stade_nom": "Enfant",
+  "type": "Data",
+  "bibliotheque": 7,
+  "puissance": 14,
+  "image": "doru",
+  "versions": [
+   "XE"
+  ]
+ },
+ {
+  "id": "XYB09",
+  "serie": "X3 (XE/XF)",
+  "nom": "Lopmon X",
+  "stade": "III",
+  "stade_nom": "Enfant",
+  "type": "Data",
+  "bibliotheque": 5,
+  "puissance": 20,
+  "image": "lop_x",
+  "versions": [
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB10",
+  "serie": "X3 (XE/XF)",
+  "nom": "Shakomon X",
+  "stade": "III",
+  "stade_nom": "Enfant",
+  "type": "Virus",
+  "bibliotheque": 6,
+  "puissance": 8,
+  "image": "shako_x",
+  "versions": [
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB11",
+  "serie": "X3 (XE/XF)",
+  "nom": "Ryudamon",
+  "stade": "III",
+  "stade_nom": "Enfant",
+  "type": "Vaccin",
+  "bibliotheque": 7,
+  "puissance": 14,
+  "image": "ryuda",
+  "versions": [
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB12",
+  "serie": "X3 (XE/XF)",
+  "nom": "Blucomon",
+  "stade": "III",
+  "stade_nom": "Enfant",
+  "type": "Data",
+  "bibliotheque": 8,
+  "puissance": 12,
+  "image": "bluco",
+  "versions": [
+   "XE",
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB13",
+  "serie": "X3 (XE/XF)",
+  "nom": "Jazamon",
+  "stade": "III",
+  "stade_nom": "Enfant",
+  "type": "Data",
+  "bibliotheque": 9,
+  "puissance": 18,
+  "image": "jaza",
+  "versions": [
+   "XE",
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB14",
+  "serie": "X3 (XE/XF)",
+  "nom": "Keramon X",
+  "stade": "III",
+  "stade_nom": "Enfant",
+  "type": "Free",
+  "bibliotheque": 10,
+  "puissance": 60,
+  "image": "kera_x",
+  "versions": [
+   "XE",
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB15",
+  "serie": "X3 (XE/XF)",
+  "nom": "Siesamon X",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Vaccin",
+  "bibliotheque": 11,
+  "puissance": 52,
+  "image": "siesa_x",
+  "versions": [
+   "XE"
+  ]
+ },
+ {
+  "id": "XYB16",
+  "serie": "X3 (XE/XF)",
+  "nom": "Meramon X",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Data",
+  "bibliotheque": 12,
+  "puissance": 46,
+  "image": "mera_x",
+  "versions": [
+   "XE"
+  ]
+ },
+ {
+  "id": "XYB17",
+  "serie": "X3 (XE/XF)",
+  "nom": "DORUgamon",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Data",
+  "bibliotheque": 13,
+  "puissance": 38,
+  "image": "doruga",
+  "versions": [
+   "XE"
+  ]
+ },
+ {
+  "id": "XYB18",
+  "serie": "X3 (XE/XF)",
+  "nom": "Pteranomon X",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Data",
+  "bibliotheque": 14,
+  "puissance": 34,
+  "image": "pterano_x",
+  "versions": [
+   "XE"
+  ]
+ },
+ {
+  "id": "XYB19",
+  "serie": "X3 (XE/XF)",
+  "nom": "Togemon X",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Data",
+  "bibliotheque": 15,
+  "puissance": 30,
+  "image": "toge_x",
+  "versions": [
+   "XE"
+  ]
+ },
+ {
+  "id": "XYB20",
+  "serie": "X3 (XE/XF)",
+  "nom": "Pegasmon X",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Vaccin",
+  "bibliotheque": 11,
+  "puissance": 46,
+  "image": "pegas_x",
+  "versions": [
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB21",
+  "serie": "X3 (XE/XF)",
+  "nom": "Wizarmon X",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Data",
+  "bibliotheque": 12,
+  "puissance": 52,
+  "image": "wizar_x",
+  "versions": [
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB22",
+  "serie": "X3 (XE/XF)",
+  "nom": "Ginryumon",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Vaccin",
+  "bibliotheque": 13,
+  "puissance": 38,
+  "image": "ginryu",
+  "versions": [
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB23",
+  "serie": "X3 (XE/XF)",
+  "nom": "Tailmon X",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Vaccin",
+  "bibliotheque": 14,
+  "puissance": 34,
+  "image": "tail_x",
+  "versions": [
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB24",
+  "serie": "X3 (XE/XF)",
+  "nom": "Tylomon X",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Vaccin",
+  "bibliotheque": 15,
+  "puissance": 30,
+  "image": "tylo_x",
+  "versions": [
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB25",
+  "serie": "X3 (XE/XF)",
+  "nom": "Omekamon",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Data",
+  "bibliotheque": 16,
+  "puissance": 60,
+  "image": "omeka",
+  "versions": [
+   "XE",
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB26",
+  "serie": "X3 (XE/XF)",
+  "nom": "Paledramon",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Data",
+  "bibliotheque": 17,
+  "puissance": 56,
+  "image": "paledra",
+  "versions": [
+   "XE",
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB27",
+  "serie": "X3 (XE/XF)",
+  "nom": "Jazardmon",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Data",
+  "bibliotheque": 18,
+  "puissance": 42,
+  "image": "jazard",
+  "versions": [
+   "XE",
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB28",
+  "serie": "X3 (XE/XF)",
+  "nom": "Omega Shoutmon X",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Vaccin",
+  "bibliotheque": 19,
+  "puissance": 114,
+  "image": "omegashout_x",
+  "versions": [
+   "XE"
+  ]
+ },
+ {
+  "id": "XYB29",
+  "serie": "X3 (XE/XF)",
+  "nom": "Cyberdramon X",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Vaccin",
+  "bibliotheque": 20,
+  "puissance": 108,
+  "image": "cyberdra_x",
+  "versions": [
+   "XE"
+  ]
+ },
+ {
+  "id": "XYB30",
+  "serie": "X3 (XE/XF)",
+  "nom": "DORUguremon",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Data",
+  "bibliotheque": 21,
+  "puissance": 92,
+  "image": "dorugure",
+  "versions": [
+   "XE"
+  ]
+ },
+ {
+  "id": "XYB31",
+  "serie": "X3 (XE/XF)",
+  "nom": "Garudamon X",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Vaccin",
+  "bibliotheque": 22,
+  "puissance": 84,
+  "image": "garuda_x",
+  "versions": [
+   "XE"
+  ]
+ },
+ {
+  "id": "XYB32",
+  "serie": "X3 (XE/XF)",
+  "nom": "Cannonbeemon",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Virus",
+  "bibliotheque": 23,
+  "puissance": 80,
+  "image": "cannonbee",
+  "versions": [
+   "XE"
+  ]
+ },
+ {
+  "id": "XYB33",
+  "serie": "X3 (XE/XF)",
+  "nom": "Monzaemon X",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Vaccin",
+  "bibliotheque": 19,
+  "puissance": 108,
+  "image": "monzae_x",
+  "versions": [
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB34",
+  "serie": "X3 (XE/XF)",
+  "nom": "Rize Greymon X",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Vaccin",
+  "bibliotheque": 20,
+  "puissance": 100,
+  "image": "rizegrey_x",
+  "versions": [
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB35",
+  "serie": "X3 (XE/XF)",
+  "nom": "Hisyaryumon",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Vaccin",
+  "bibliotheque": 21,
+  "puissance": 92,
+  "image": "hisyaryu",
+  "versions": [
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB36",
+  "serie": "X3 (XE/XF)",
+  "nom": "Angewomon X",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Vaccin",
+  "bibliotheque": 22,
+  "puissance": 114,
+  "image": "angewo_x",
+  "versions": [
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB37",
+  "serie": "X3 (XE/XF)",
+  "nom": "Anomalocarimon X",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Data",
+  "bibliotheque": 23,
+  "puissance": 80,
+  "image": "anomalocari_x",
+  "versions": [
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB38",
+  "serie": "X3 (XE/XF)",
+  "nom": "Grademon",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Vaccin",
+  "bibliotheque": 24,
+  "puissance": 88,
+  "image": "grade",
+  "versions": [
+   "XE",
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB39",
+  "serie": "X3 (XE/XF)",
+  "nom": "Mamemon X",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Data",
+  "bibliotheque": 25,
+  "puissance": 76,
+  "image": "mame_x",
+  "versions": [
+   "XE",
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB40",
+  "serie": "X3 (XE/XF)",
+  "nom": "Crys Paledramon",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Data",
+  "bibliotheque": 26,
+  "puissance": 104,
+  "image": "cryspaledra",
+  "versions": [
+   "XE",
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB41",
+  "serie": "X3 (XE/XF)",
+  "nom": "Jazarichmon",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Data",
+  "bibliotheque": 27,
+  "puissance": 104,
+  "image": "jazarich",
+  "versions": [
+   "XE",
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB42",
+  "serie": "X3 (XE/XF)",
+  "nom": "Pumpmon",
+  "stade": "V",
+  "stade_nom": "Parfait",
+  "type": "Data",
+  "bibliotheque": 28,
+  "puissance": 88,
+  "image": "pump",
+  "versions": [
+   "XE",
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB43",
+  "serie": "X3 (XE/XF)",
+  "nom": "Rapidmon X",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Vaccin",
+  "bibliotheque": 29,
+  "puissance": 170,
+  "image": "rapid_x",
+  "versions": [
+   "XE"
+  ]
+ },
+ {
+  "id": "XYB44",
+  "serie": "X3 (XE/XF)",
+  "nom": "Justimon X",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Vaccin",
+  "bibliotheque": 30,
+  "puissance": 164,
+  "image": "justi_x",
+  "versions": [
+   "XE"
+  ]
+ },
+ {
+  "id": "XYB45",
+  "serie": "X3 (XE/XF)",
+  "nom": "Alphamon",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Vaccin",
+  "bibliotheque": 31,
+  "puissance": 176,
+  "image": "alpha",
+  "versions": [
+   "XA",
+   "XB",
+   "XE"
+  ]
+ },
+ {
+  "id": "XYB46",
+  "serie": "X3 (XE/XF)",
+  "nom": "Hououmon X",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Vaccin",
+  "bibliotheque": 32,
+  "puissance": 160,
+  "image": "houou_x",
+  "versions": [
+   "XE"
+  ]
+ },
+ {
+  "id": "XYB47",
+  "serie": "X3 (XE/XF)",
+  "nom": "Tiger Vespamon",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Virus",
+  "bibliotheque": 33,
+  "puissance": 138,
+  "image": "tigervespa",
+  "versions": [
+   "XE"
+  ]
+ },
+ {
+  "id": "XYB48",
+  "serie": "X3 (XE/XF)",
+  "nom": "Cherubimon (Virtue) X",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Vaccin",
+  "bibliotheque": 29,
+  "puissance": 164,
+  "image": "cherubi_virtue_x",
+  "versions": [
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB49",
+  "serie": "X3 (XE/XF)",
+  "nom": "Goddramon X",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Vaccin",
+  "bibliotheque": 30,
+  "puissance": 170,
+  "image": "goddra_x",
+  "versions": [
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB50",
+  "serie": "X3 (XE/XF)",
+  "nom": "Ouryumon",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Vaccin",
+  "bibliotheque": 31,
+  "puissance": 156,
+  "image": "ouryu",
+  "versions": [
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB51",
+  "serie": "X3 (XE/XF)",
+  "nom": "Ofanimon X",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Vaccin",
+  "bibliotheque": 32,
+  "puissance": 160,
+  "image": "ofani_x",
+  "versions": [
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB52",
+  "serie": "X3 (XE/XF)",
+  "nom": "Plesiomon X",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Data",
+  "bibliotheque": 33,
+  "puissance": 138,
+  "image": "plesio_x",
+  "versions": [
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB53",
+  "serie": "X3 (XE/XF)",
+  "nom": "Gaioumon",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Virus",
+  "bibliotheque": 34,
+  "puissance": 146,
+  "image": "gaiou",
+  "versions": [
+   "XE",
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB54",
+  "serie": "X3 (XE/XF)",
+  "nom": "Dinotigermon",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Data",
+  "bibliotheque": 35,
+  "puissance": 142,
+  "image": "dinotiger",
+  "versions": [
+   "XE",
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB55",
+  "serie": "X3 (XE/XF)",
+  "nom": "Holydramon X",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Vaccin",
+  "bibliotheque": 36,
+  "puissance": 150,
+  "image": "holydra_x",
+  "versions": [
+   "XE",
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB56",
+  "serie": "X3 (XE/XF)",
+  "nom": "Ebemon X",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Virus",
+  "bibliotheque": 37,
+  "puissance": 130,
+  "image": "ebe_x",
+  "versions": [
+   "XE",
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB57",
+  "serie": "X3 (XE/XF)",
+  "nom": "Hexeblaumon",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Data",
+  "bibliotheque": 38,
+  "puissance": 166,
+  "image": "hexeblau",
+  "versions": [
+   "XE",
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB58",
+  "serie": "X3 (XE/XF)",
+  "nom": "Metallicdramon",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Data",
+  "bibliotheque": 39,
+  "puissance": 156,
+  "image": "metallicdra",
+  "versions": [
+   "XE",
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB59",
+  "serie": "X3 (XE/XF)",
+  "nom": "Noble Pumpmon",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Data",
+  "bibliotheque": 40,
+  "puissance": 172,
+  "image": "noblepump",
+  "versions": [
+   "XE",
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB60",
+  "serie": "X3 (XE/XF)",
+  "nom": "Magnamon X",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Vaccin",
+  "bibliotheque": 41,
+  "puissance": 198,
+  "image": "magna_x",
+  "versions": [
+   "XE"
+  ]
+ },
+ {
+  "id": "XYB61",
+  "serie": "X3 (XE/XF)",
+  "nom": "Gankoomon X",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Data",
+  "bibliotheque": 42,
+  "puissance": 208,
+  "image": "gankoo_x",
+  "versions": [
+   "XE"
+  ]
+ },
+ {
+  "id": "XYB62",
+  "serie": "X3 (XE/XF)",
+  "nom": "Dynasmon X",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Data",
+  "bibliotheque": 43,
+  "puissance": 194,
+  "image": "dynas_x",
+  "versions": [
+   "XE"
+  ]
+ },
+ {
+  "id": "XYB63",
+  "serie": "X3 (XE/XF)",
+  "nom": "Craniummon X",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Vaccin",
+  "bibliotheque": 44,
+  "puissance": 186,
+  "image": "cranium_x",
+  "versions": [
+   "XB",
+   "XE"
+  ]
+ },
+ {
+  "id": "XYB64",
+  "serie": "X3 (XE/XF)",
+  "nom": "Lord Knightmon X",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Virus",
+  "bibliotheque": 45,
+  "puissance": 190,
+  "image": "lordknight_x",
+  "versions": [
+   "XB",
+   "XE"
+  ]
+ },
+ {
+  "id": "XYB65",
+  "serie": "X3 (XE/XF)",
+  "nom": "Dukemon X",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Virus",
+  "bibliotheque": 46,
+  "puissance": 202,
+  "image": "duke_x",
+  "versions": [
+   "XA",
+   "XB",
+   "XE"
+  ]
+ },
+ {
+  "id": "XYB66",
+  "serie": "X3 (XE/XF)",
+  "nom": "Ulforce V-dramon X",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Vaccin",
+  "bibliotheque": 41,
+  "puissance": 198,
+  "image": "ulforcevdra_x",
+  "versions": [
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB67",
+  "serie": "X3 (XE/XF)",
+  "nom": "Examon X",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Data",
+  "bibliotheque": 42,
+  "puissance": 208,
+  "image": "exa_x",
+  "versions": [
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB68",
+  "serie": "X3 (XE/XF)",
+  "nom": "Duftmon X",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Data",
+  "bibliotheque": 43,
+  "puissance": 194,
+  "image": "duft_x",
+  "versions": [
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB69",
+  "serie": "X3 (XE/XF)",
+  "nom": "Sleipmon X",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Vaccin",
+  "bibliotheque": 44,
+  "puissance": 186,
+  "image": "sleip_x",
+  "versions": [
+   "XA",
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB70",
+  "serie": "X3 (XE/XF)",
+  "nom": "Jesmon X",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Data",
+  "bibliotheque": 45,
+  "puissance": 190,
+  "image": "jes_x",
+  "versions": [
+   "XA",
+   "XB",
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB71",
+  "serie": "X3 (XE/XF)",
+  "nom": "Omegamon X",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Vaccin",
+  "bibliotheque": 46,
+  "puissance": 202,
+  "image": "omega_x",
+  "versions": [
+   "XA",
+   "XB",
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB72",
+  "serie": "X3 (XE/XF)",
+  "nom": "Alphamon: Ouryuken",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Vaccin",
+  "bibliotheque": 47,
+  "puissance": 206,
+  "image": "alpha_o",
+  "versions": [
+   "XE",
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB73",
+  "serie": "X3 (XE/XF)",
+  "nom": "Diablomon X",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Free",
+  "bibliotheque": 48,
+  "puissance": 174,
+  "image": "diablo_x",
+  "versions": [
+   "XA",
+   "XB",
+   "XC",
+   "XD",
+   "XE",
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB74",
+  "serie": "X3 (XE/XF)",
+  "nom": "Jesmon GX",
+  "stade": "+VI+",
+  "stade_nom": "+VI+ (non nommé)",
+  "type": "Data",
+  "bibliotheque": 49,
+  "puissance": 220,
+  "image": "jes_gx",
+  "versions": [
+   "XE",
+   "XF"
+  ]
+ },
+ {
+  "id": "XYB75",
+  "serie": "X3 (XE/XF)",
+  "nom": "Ogudomon X",
+  "stade": "+VI+",
+  "stade_nom": "+VI+ (non nommé)",
+  "type": "Virus",
+  "bibliotheque": 50,
+  "puissance": 220,
+  "image": "ogudo_x",
+  "versions": [
+   "XE",
+   "XF"
+  ]
+ },
+ {
+  "id": "",
+  "serie": "Sans ID",
+  "nom": "Sistermon Noir",
+  "stade": "IV",
+  "stade_nom": "Adulte",
+  "type": "Virus",
+  "bibliotheque": null,
+  "puissance": null,
+  "image": "sister_n",
+  "versions": []
+ },
+ {
+  "id": "",
+  "serie": "Sans ID",
+  "nom": "Voltobautamon",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Virus",
+  "bibliotheque": null,
+  "puissance": null,
+  "image": "voltobauta",
+  "versions": []
+ },
+ {
+  "id": "",
+  "serie": "Sans ID",
+  "nom": "Barbamon",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Virus",
+  "bibliotheque": null,
+  "puissance": null,
+  "image": "barba",
+  "versions": []
+ },
+ {
+  "id": "",
+  "serie": "Sans ID",
+  "nom": "Demon",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Virus",
+  "bibliotheque": null,
+  "puissance": null,
+  "image": "de",
+  "versions": []
+ },
+ {
+  "id": "",
+  "serie": "Sans ID",
+  "nom": "Belphemon: Rage Mode",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Virus",
+  "bibliotheque": null,
+  "puissance": null,
+  "image": "belphe_r",
+  "versions": []
+ },
+ {
+  "id": "",
+  "serie": "Sans ID",
+  "nom": "Leviamon",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Virus",
+  "bibliotheque": null,
+  "puissance": null,
+  "image": "levia",
+  "versions": []
+ },
+ {
+  "id": "",
+  "serie": "Sans ID",
+  "nom": "Lilithmon",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Virus",
+  "bibliotheque": null,
+  "puissance": null,
+  "image": "lilith",
+  "versions": []
+ },
+ {
+  "id": "",
+  "serie": "Sans ID",
+  "nom": "Apocalymon",
+  "stade": "VI+",
+  "stade_nom": "Super Ultime",
+  "type": "Free",
+  "bibliotheque": null,
+  "puissance": null,
+  "image": "apocaly",
+  "versions": []
+ },
+ {
+  "id": "",
+  "serie": "Sans ID",
+  "nom": "Grand Dracumon",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Virus",
+  "bibliotheque": null,
+  "puissance": null,
+  "image": "granddracu",
+  "versions": []
+ },
+ {
+  "id": "",
+  "serie": "Sans ID",
+  "nom": "Examon",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Data",
+  "bibliotheque": null,
+  "puissance": null,
+  "image": "exa",
+  "versions": []
+ },
+ {
+  "id": "",
+  "serie": "Sans ID",
+  "nom": "Gankoomon",
+  "stade": "VI",
+  "stade_nom": "Ultime",
+  "type": "Data",
+  "bibliotheque": null,
+  "puissance": null,
+  "image": "gankoo",
+  "versions": []
+ }
+]
