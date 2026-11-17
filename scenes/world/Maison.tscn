@@ -1,19 +1,19 @@
-[gd_scene load_steps=29 format=3]
+[gd_scene format=3 uid="uid://bs5raiyywufwh"]
 
-[ext_resource type="Script" path="res://scripts/world/maison.gd" id="script_maison"]
-[ext_resource type="Script" path="res://scripts/world/batiment_apparence.gd" id="script_apparence"]
-[ext_resource type="Texture2D" path="res://assets/Pixel 16 v2 village free/Pixel 16 v2 village free.png" id="texture_atlas"]
-[ext_resource type="Texture2D" path="res://assets/Buildings/Building1.png" id="texture_building1"]
-[ext_resource type="Texture2D" path="res://assets/Buildings/Building2.png" id="texture_building2"]
-[ext_resource type="Texture2D" path="res://assets/Buildings/Building3.png" id="texture_building3"]
-[ext_resource type="Texture2D" path="res://assets/Buildings/Building4.png" id="texture_building4"]
-[ext_resource type="Texture2D" path="res://assets/Buildings/Building5.png" id="texture_building5"]
-[ext_resource type="Texture2D" path="res://assets/Buildings/Building6.png" id="texture_building6"]
-[ext_resource type="Texture2D" path="res://assets/Buildings/Building7.png" id="texture_building7"]
-[ext_resource type="Texture2D" path="res://assets/Buildings/House_1_Wood_Base_Blue.png" id="texture_blue_house"]
-[ext_resource type="Texture2D" path="res://assets/Buildings/House_Hay_1.png" id="texture_hay1"]
-[ext_resource type="Texture2D" path="res://assets/Buildings/House_Hay_2.png" id="texture_hay2"]
-[ext_resource type="Texture2D" path="res://assets/Buildings/House_Hay_3.png" id="texture_hay3"]
+[ext_resource type="Script" uid="uid://d2dq8acksafwl" path="res://scripts/world/batiment_apparence.gd" id="script_apparence"]
+[ext_resource type="Script" uid="uid://bn42ssqbb3hm5" path="res://scripts/world/maison.gd" id="script_maison"]
+[ext_resource type="Texture2D" uid="uid://c8jvb5btoclvm" path="res://assets/Pixel 16 v2 village free/Pixel 16 v2 village free.png" id="texture_atlas"]
+[ext_resource type="Texture2D" uid="uid://dassb1obhp50c" path="res://assets/Buildings/House_1_Wood_Base_Blue.png" id="texture_blue_house"]
+[ext_resource type="Texture2D" uid="uid://b4pw4kb0blh27" path="res://assets/Buildings/Building1.png" id="texture_building1"]
+[ext_resource type="Texture2D" uid="uid://vmfrlg1y7gvn" path="res://assets/Buildings/Building2.png" id="texture_building2"]
+[ext_resource type="Texture2D" uid="uid://dfqtcuqnsi5sx" path="res://assets/Buildings/Building3.png" id="texture_building3"]
+[ext_resource type="Texture2D" uid="uid://dq4apnceehj7d" path="res://assets/Buildings/Building4.png" id="texture_building4"]
+[ext_resource type="Texture2D" uid="uid://cxf3mif7hafah" path="res://assets/Buildings/Building5.png" id="texture_building5"]
+[ext_resource type="Texture2D" uid="uid://c76bgcmi556v2" path="res://assets/Buildings/Building6.png" id="texture_building6"]
+[ext_resource type="Texture2D" uid="uid://d2j8y1dfv056b" path="res://assets/Buildings/Building7.png" id="texture_building7"]
+[ext_resource type="Texture2D" uid="uid://cq0llitvh77q0" path="res://assets/Buildings/House_Hay_1.png" id="texture_hay1"]
+[ext_resource type="Texture2D" uid="uid://tha5f3p3c08q" path="res://assets/Buildings/House_Hay_2.png" id="texture_hay2"]
+[ext_resource type="Texture2D" uid="uid://bwud4io8svqsd" path="res://assets/Buildings/House_Hay_3.png" id="texture_hay3"]
 
 [sub_resource type="Resource" id="BatimentApparence_0"]
 script = ExtResource("script_apparence")
@@ -88,9 +88,12 @@ script = ExtResource("script_apparence")
 nom = "House_Hay_3"
 texture = ExtResource("texture_hay3")
 
-[node name="Maison" type="Node2D"]
+[node name="Maison" type="Node2D" unique_id=1558463107]
 script = ExtResource("script_maison")
 apparences = Array[ExtResource("script_apparence")]([SubResource("BatimentApparence_0"), SubResource("BatimentApparence_1"), SubResource("BatimentApparence_2"), SubResource("BatimentApparence_3"), SubResource("BatimentApparence_4"), SubResource("BatimentApparence_5"), SubResource("BatimentApparence_6"), SubResource("BatimentApparence_7"), SubResource("BatimentApparence_8"), SubResource("BatimentApparence_9"), SubResource("BatimentApparence_10"), SubResource("BatimentApparence_11"), SubResource("BatimentApparence_12"), SubResource("BatimentApparence_13")])
-index_apparence = 0
+index_apparence = 1
 
-[node name="Sprite2D" type="Sprite2D" parent="."]
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=449270152]
+texture = ExtResource("texture_atlas")
+region_enabled = true
+region_rect = Rect2(193, 67, 14, 12)
