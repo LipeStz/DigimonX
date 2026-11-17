@@ -1,13 +1,13 @@
 @tool
 extends Node2D
 
-@export var apparences: Array[Texture2D] = []
+@export var regions: Array[Rect2] = []
 @export var index_apparence: int = 0:
 	set(valeur):
-		if apparences.is_empty():
+		if regions.is_empty():
 			index_apparence = 0
 		else:
-			index_apparence = clampi(valeur, 0, apparences.size() - 1)
+			index_apparence = clampi(valeur, 0, regions.size() - 1)
 		_appliquer_apparence()
 
 @export var zone_size: Vector2 = Vector2(32.0, 96.0)
@@ -42,11 +42,12 @@ func _ready() -> void:
 
 
 func _appliquer_apparence() -> void:
-	if not is_node_ready() or apparences.is_empty():
+	if not is_node_ready() or regions.is_empty():
 		return
 	var sprite := get_node_or_null("Sprite2D") as Sprite2D
 	if sprite != null:
-		sprite.texture = apparences[clampi(index_apparence, 0, apparences.size() - 1)]
+		sprite.region_enabled = true
+		sprite.region_rect = regions[clampi(index_apparence, 0, regions.size() - 1)]
 
 
 func _a_entree_du_corps(corps: Node2D) -> void:

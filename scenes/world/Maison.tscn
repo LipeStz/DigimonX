@@ -1,12 +1,11 @@
-[gd_scene load_steps=4 format=3]
+[gd_scene load_steps=3 format=3]
 
-[ext_resource type="Script" path="res://scripts/world/ObstacleTranslucide.gd" id="1_script"]
+[ext_resource type="Script" path="res://scripts/world/maison.gd" id="1_script"]
 [ext_resource type="Texture2D" path="res://assets/Pixel 16 v2 village free/Pixel 16 v2 village free.png" id="2_texture"]
-[ext_resource type="Script" path="res://scripts/world/maison.gd" id="3_script"]
 
 [node name="Maison" type="Node2D"]
-script = ExtResource("3_script")
-apparences = Array[Texture2D]([ExtResource("2_texture")])
+script = ExtResource("1_script")
+regions = Array[Rect2]([Rect2(144, 144, 128, 80), Rect2(16, 16, 80, 80), Rect2(68, 123, 72, 101)])
 index_apparence = 0
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
