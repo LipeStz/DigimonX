@@ -66,7 +66,7 @@ texture = ExtResource("texture_building6")
 [sub_resource type="Resource" id="BatimentApparence_9"]
 script = ExtResource("script_apparence")
 nom = "Building7"
-texture = ExtResource("script_apparence")
+texture = ExtResource("texture_building7")
 
 [sub_resource type="Resource" id="BatimentApparence_10"]
 script = ExtResource("script_apparence")
