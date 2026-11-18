@@ -6,7 +6,7 @@
 size = Vector2(2, 3)
 
 [node name="Joueur" type="CharacterBody2D" unique_id=1118560447]
-z_index = 6
+z_index = 0
 script = ExtResource("1_r36ky")
 
 [node name="Camera2D" type="Camera2D" parent="." unique_id=1521039936]
