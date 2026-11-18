@@ -1,4 +1,4 @@
-[gd_scene load_steps=231 format=4 uid="uid://b2iji3ulbc8pp"]
+[gd_scene format=4 uid="uid://b2iji3ulbc8pp"]
 
 [ext_resource type="Script" uid="uid://m3dqxdkrvygy" path="res://scripts/DayNightCycle.gd" id="2"]
 [ext_resource type="TileSet" uid="uid://2e7kcm7h3fxo" path="res://assets/tileset_town.tres" id="2_ol72e"]
@@ -1988,3 +1988,4 @@ index_apparence = 3
 
 [node name="Maison7" parent="." unique_id=1558463107 instance=ExtResource("4_g3877")]
 position = Vector2(264, 198)
+index_apparence = 1
