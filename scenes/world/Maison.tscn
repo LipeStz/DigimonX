@@ -91,9 +91,7 @@ texture = ExtResource("texture_hay3")
 [node name="Maison" type="Node2D" unique_id=1558463107]
 script = ExtResource("script_maison")
 apparences = Array[ExtResource("script_apparence")]([SubResource("BatimentApparence_0"), SubResource("BatimentApparence_1"), SubResource("BatimentApparence_2"), SubResource("BatimentApparence_3"), SubResource("BatimentApparence_4"), SubResource("BatimentApparence_5"), SubResource("BatimentApparence_6"), SubResource("BatimentApparence_7"), SubResource("BatimentApparence_8"), SubResource("BatimentApparence_9"), SubResource("BatimentApparence_10"), SubResource("BatimentApparence_11"), SubResource("BatimentApparence_12"), SubResource("BatimentApparence_13")])
-index_apparence = 1
+index_apparence = 13
 
 [node name="Sprite2D" type="Sprite2D" parent="." unique_id=449270152]
-texture = ExtResource("texture_atlas")
-region_enabled = true
-region_rect = Rect2(16, 112, 48, 48)
+texture = ExtResource("texture_hay3")
