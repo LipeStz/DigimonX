@@ -4,6 +4,7 @@
 [ext_resource type="Texture2D" uid="uid://c3aoupbt2a3wj" path="res://assets/pixel_16_woods v2 free/free_pixel_16_woods.png" id="2_7tj0s"]
 [ext_resource type="Texture2D" uid="uid://c7r03y3s5bl4l" path="res://assets/Buildings/Buildings.png" id="3_d13p2"]
 [ext_resource type="Texture2D" uid="uid://c1yj83clbg6lo" path="res://assets/Pixel_16_interiors_v2_free/tiles and items.png" id="3_k8vv7"]
+[ext_resource type="Texture2D" uid="uid://bncda3nejj20x" path="res://assets/Buildings/House_Hay_4_Purple.png" id="10_xf1mr"]
 [ext_resource type="Texture2D" uid="uid://bjbl2dayyfi57" path="res://assets/Buildings/CityWall_Gate_1.png" id="4_gqp6y"]
 [ext_resource type="Texture2D" uid="uid://dx7pr86vbc1ix" path="res://assets/Buildings/House.png" id="5_tgcfw"]
 [ext_resource type="Texture2D" uid="uid://dassb1obhp50c" path="res://assets/Buildings/House_1_Wood_Base_Blue.png" id="6_6bs8o"]
