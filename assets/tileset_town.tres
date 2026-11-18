@@ -10,7 +10,6 @@
 [ext_resource type="Texture2D" uid="uid://cq0llitvh77q0" path="res://assets/Buildings/House_Hay_1.png" id="7_lgl4e"]
 [ext_resource type="Texture2D" uid="uid://tha5f3p3c08q" path="res://assets/Buildings/House_Hay_2.png" id="8_iyb6q"]
 [ext_resource type="Texture2D" uid="uid://bwud4io8svqsd" path="res://assets/Buildings/House_Hay_3.png" id="9_cbii4"]
-[ext_resource type="Texture2D" uid="uid://bncda3nejj20x" path="res://assets/Buildings/House_Hay_4_Purple.png" id="10_xf1mr"]
 [ext_resource type="Texture2D" uid="uid://b4pw4kb0blh27" path="res://assets/Buildings/Building1.png" id="12_0luyt"]
 [ext_resource type="Texture2D" uid="uid://vmfrlg1y7gvn" path="res://assets/Buildings/Building2.png" id="13_b054o"]
 [ext_resource type="Texture2D" uid="uid://dfqtcuqnsi5sx" path="res://assets/Buildings/Building3.png" id="14_ycb0j"]
