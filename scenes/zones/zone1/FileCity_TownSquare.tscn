@@ -720,7 +720,7 @@ tile_set = ExtResource("2_ol72e")
 script = ExtResource("2")
 
 [node name="Joueur" parent="." unique_id=1118560447 instance=ExtResource("4_wm4i5")]
-position = Vector2(322, 188)
+position = Vector2(384, 256)
 
 [node name="SolidCollisions" type="Node2D" parent="." unique_id=250767834]
 
