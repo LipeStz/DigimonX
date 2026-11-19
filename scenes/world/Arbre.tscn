@@ -1,10 +1,49 @@
-[gd_scene load_steps=3 format=3]
+[gd_scene load_steps=9 format=3]
 
-[ext_resource type="Script" path="res://scripts/world/ObstacleTranslucide.gd" id="1_script"]
+[ext_resource type="Script" path="res://scripts/world/arbre.gd" id="1_script"]
 [ext_resource type="Texture2D" path="res://assets/pixel_16_woods v2 free/free_pixel_16_woods.png" id="2_texture"]
+[ext_resource type="Script" path="res://scripts/world/batiment_apparence.gd" id="3_apparence"]
+
+[sub_resource type="Resource" id="Apparence_GrandArbreRond"]
+script = ExtResource("3_apparence")
+nom = "Grand arbre rond"
+texture = ExtResource("2_texture")
+region = Rect2(272, 0, 64, 80)
+
+[sub_resource type="Resource" id="Apparence_MassifGauche"]
+script = ExtResource("3_apparence")
+nom = "Grand massif touffu gauche"
+texture = ExtResource("2_texture")
+region = Rect2(16, 96, 80, 80)
+
+[sub_resource type="Resource" id="Apparence_ArbreRondGauche"]
+script = ExtResource("3_apparence")
+nom = "Arbre rond gauche"
+texture = ExtResource("2_texture")
+region = Rect2(16, 16, 80, 80)
+
+[sub_resource type="Resource" id="Apparence_ArbreRondPetit"]
+script = ExtResource("3_apparence")
+nom = "Petit arbre rond"
+texture = ExtResource("2_texture")
+region = Rect2(144, 16, 80, 80)
+
+[sub_resource type="Resource" id="Apparence_Sapin"]
+script = ExtResource("3_apparence")
+nom = "Sapin"
+texture = ExtResource("2_texture")
+region = Rect2(144, 96, 80, 80)
+
+[sub_resource type="Resource" id="Apparence_PetitBuisson"]
+script = ExtResource("3_apparence")
+nom = "Petit buisson"
+texture = ExtResource("2_texture")
+region = Rect2(80, 96, 64, 80)
 
 [node name="Arbre" type="Node2D"]
 script = ExtResource("1_script")
+apparences = Array[BatimentApparence]([SubResource("Apparence_GrandArbreRond"), SubResource("Apparence_MassifGauche"), SubResource("Apparence_ArbreRondGauche"), SubResource("Apparence_ArbreRondPetit"), SubResource("Apparence_Sapin"), SubResource("Apparence_PetitBuisson")])
+index_apparence = 0
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
 texture = ExtResource("2_texture")
