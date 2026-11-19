@@ -1,8 +1,11 @@
-[gd_scene load_steps=10 format=3]
+[gd_scene load_steps=13 format=3]
 
 [ext_resource type="Script" path="res://scripts/world/arbre.gd" id="1_script"]
 [ext_resource type="Texture2D" path="res://assets/pixel_16_woods v2 free/free_pixel_16_woods.png" id="2_texture"]
 [ext_resource type="Script" path="res://scripts/world/batiment_apparence.gd" id="3_apparence"]
+[ext_resource type="Texture2D" path="res://assets/trees/TREE 1 - DAY.png" id="4_tree1"]
+[ext_resource type="Texture2D" path="res://assets/trees/TREE 2 - DAY.png" id="5_tree2"]
+[ext_resource type="Texture2D" path="res://assets/trees/TREE 3 - DAY.png" id="6_tree3"]
 
 [sub_resource type="Resource" id="Apparence_GrandArbreRond"]
 script = ExtResource("3_apparence")
@@ -10,39 +13,36 @@ nom = "Grand arbre rond"
 texture = ExtResource("2_texture")
 region = Rect2(272, 0, 64, 80)
 
-[sub_resource type="Resource" id="Apparence_MassifGauche"]
-script = ExtResource("3_apparence")
-nom = "Grand massif touffu gauche"
-texture = ExtResource("2_texture")
-region = Rect2(16, 96, 80, 80)
-
-[sub_resource type="Resource" id="Apparence_ArbreRondGauche"]
-script = ExtResource("3_apparence")
-nom = "Arbre rond gauche"
-texture = ExtResource("2_texture")
-region = Rect2(16, 16, 80, 80)
-
-[sub_resource type="Resource" id="Apparence_ArbreRondPetit"]
+[sub_resource type="Resource" id="Apparence_PetitArbreRond"]
 script = ExtResource("3_apparence")
 nom = "Petit arbre rond"
 texture = ExtResource("2_texture")
-region = Rect2(144, 16, 80, 80)
+region = Rect2(272, 80, 32, 48)
 
 [sub_resource type="Resource" id="Apparence_Sapin"]
 script = ExtResource("3_apparence")
 nom = "Sapin"
 texture = ExtResource("2_texture")
-region = Rect2(144, 96, 80, 80)
+region = Rect2(304, 80, 32, 48)
 
-[sub_resource type="Resource" id="Apparence_PetitBuisson"]
+[sub_resource type="Resource" id="Apparence_Tree1"]
 script = ExtResource("3_apparence")
-nom = "Petit buisson"
-texture = ExtResource("2_texture")
-region = Rect2(80, 96, 64, 80)
+nom = "TREE 1 - DAY"
+texture = ExtResource("4_tree1")
+
+[sub_resource type="Resource" id="Apparence_Tree2"]
+script = ExtResource("3_apparence")
+nom = "TREE 2 - DAY"
+texture = ExtResource("5_tree2")
+
+[sub_resource type="Resource" id="Apparence_Tree3"]
+script = ExtResource("3_apparence")
+nom = "TREE 3 - DAY"
+texture = ExtResource("6_tree3")
 
 [node name="Arbre" type="Node2D"]
 script = ExtResource("1_script")
-apparences = Array[BatimentApparence]([SubResource("Apparence_GrandArbreRond"), SubResource("Apparence_MassifGauche"), SubResource("Apparence_ArbreRondGauche"), SubResource("Apparence_ArbreRondPetit"), SubResource("Apparence_Sapin"), SubResource("Apparence_PetitBuisson")])
+apparences = Array[ExtResource("3_apparence")]([SubResource("Apparence_GrandArbreRond"), SubResource("Apparence_PetitArbreRond"), SubResource("Apparence_Sapin"), SubResource("Apparence_Tree1"), SubResource("Apparence_Tree2"), SubResource("Apparence_Tree3")])
 index_apparence = 0
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
