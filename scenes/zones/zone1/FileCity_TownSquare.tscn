@@ -35,7 +35,7 @@ size = Vector2(33, 15)
 size = Vector2(27, 16)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_73qt5"]
-size = Vector2(28, 12)
+size = Vector2(10, 5)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_0eqjm"]
 size = Vector2(128, 32)
@@ -774,7 +774,7 @@ shape = SubResource("RectangleShape2D_tqls2")
 position = Vector2(512, 424)
 
 [node name="@CollisionShape2D@28407" type="CollisionShape2D" parent="SolidCollisions/Solid_trees_30_24" unique_id=1821892811]
-position = Vector2(-23, -2)
+position = Vector2(-31, 8.5)
 shape = SubResource("RectangleShape2D_73qt5")
 
 [node name="Solid_House_3_1" type="StaticBody2D" parent="SolidCollisions" unique_id=702353142]
@@ -1984,7 +1984,8 @@ index_apparence = 1
 position = Vector2(249, 347)
 
 [node name="Arbre2" parent="." unique_id=894161828 instance=ExtResource("18_w8qlx")]
-position = Vector2(489, 392)
+position = Vector2(481, 414)
+index_apparence = 1
 
 [node name="Arbre3" parent="." unique_id=1024423763 instance=ExtResource("18_w8qlx")]
 position = Vector2(392, 74)
@@ -1996,7 +1997,8 @@ position = Vector2(25, 93)
 position = Vector2(88, 398)
 
 [node name="Arbre6" parent="." unique_id=388648302 instance=ExtResource("18_w8qlx")]
-position = Vector2(506, 173)
+position = Vector2(504, 186)
+index_apparence = 1
 
 [node name="Arbre7" parent="." unique_id=917180829 instance=ExtResource("18_w8qlx")]
 position = Vector2(231, 172)
