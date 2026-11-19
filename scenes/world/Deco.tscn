@@ -1,0 +1,83 @@
+[gd_scene load_steps=15 format=3]
+
+[ext_resource type="Script" path="res://scripts/world/deco.gd" id="1_deco"]
+[ext_resource type="Script" path="res://scripts/world/batiment_apparence.gd" id="2_apparence"]
+[ext_resource type="Texture2D" path="res://assets/Pixel 16 v2 village free/Pixel 16 v2 village free.png" id="3_texture"]
+
+[sub_resource type="Resource" id="BatimentApparence_0"]
+script = ExtResource("2_apparence")
+nom = "Banc"
+texture = ExtResource("3_texture")
+region = Rect2(208, 16, 32, 32)
+
+[sub_resource type="Resource" id="BatimentApparence_1"]
+script = ExtResource("2_apparence")
+nom = "Lampadaire"
+texture = ExtResource("3_texture")
+region = Rect2(160, 32, 32, 48)
+
+[sub_resource type="Resource" id="BatimentApparence_2"]
+script = ExtResource("2_apparence")
+nom = "Clôture"
+texture = ExtResource("3_texture")
+region = Rect2(160, 16, 48, 16)
+
+[sub_resource type="Resource" id="BatimentApparence_3"]
+script = ExtResource("2_apparence")
+nom = "Étagère"
+texture = ExtResource("3_texture")
+region = Rect2(240, 32, 16, 32)
+
+[sub_resource type="Resource" id="BatimentApparence_4"]
+script = ExtResource("2_apparence")
+nom = "Vase bleu"
+texture = ExtResource("3_texture")
+region = Rect2(192, 64, 16, 16)
+
+[sub_resource type="Resource" id="BatimentApparence_5"]
+script = ExtResource("2_apparence")
+nom = "Caisse A"
+texture = ExtResource("3_texture")
+region = Rect2(208, 64, 16, 16)
+
+[sub_resource type="Resource" id="BatimentApparence_6"]
+script = ExtResource("2_apparence")
+nom = "Caisse B"
+texture = ExtResource("3_texture")
+region = Rect2(224, 64, 16, 16)
+
+[sub_resource type="Resource" id="BatimentApparence_7"]
+script = ExtResource("2_apparence")
+nom = "Caisse C"
+texture = ExtResource("3_texture")
+region = Rect2(240, 64, 16, 16)
+
+[sub_resource type="Resource" id="BatimentApparence_8"]
+script = ExtResource("2_apparence")
+nom = "Bac d'eau"
+texture = ExtResource("3_texture")
+region = Rect2(192, 80, 16, 16)
+
+[sub_resource type="Resource" id="BatimentApparence_9"]
+script = ExtResource("2_apparence")
+nom = "Pot fleur rouge"
+texture = ExtResource("3_texture")
+region = Rect2(208, 80, 16, 16)
+
+[sub_resource type="Resource" id="BatimentApparence_10"]
+script = ExtResource("2_apparence")
+nom = "Pot fleur bleue"
+texture = ExtResource("3_texture")
+region = Rect2(224, 80, 16, 16)
+
+[node name="Deco" type="Node2D"]
+script = ExtResource("1_deco")
+apparences = Array[ExtResource("2_apparence")]([SubResource("BatimentApparence_0"), SubResource("BatimentApparence_1"), SubResource("BatimentApparence_2"), SubResource("BatimentApparence_3"), SubResource("BatimentApparence_4"), SubResource("BatimentApparence_5"), SubResource("BatimentApparence_6"), SubResource("BatimentApparence_7"), SubResource("BatimentApparence_8"), SubResource("BatimentApparence_9"), SubResource("BatimentApparence_10")])
+index_apparence = 0
+zone_size = Vector2(32, 32)
+zone_offset = Vector2(0, -16)
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("3_texture")
+region_enabled = true
+region_rect = Rect2(208, 16, 32, 32)
