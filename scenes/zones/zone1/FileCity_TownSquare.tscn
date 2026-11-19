@@ -794,7 +794,7 @@ shape = SubResource("RectangleShape2D_4xvsl")
 position = Vector2(466, 353)
 
 [node name="@CollisionShape2D@28410" type="CollisionShape2D" parent="SolidCollisions/Solid_House_25_20" unique_id=1993727987]
-position = Vector2(-38, 32)
+position = Vector2(-48, 31)
 shape = SubResource("RectangleShape2D_2pwx7")
 
 [node name="Solid_House_17_9" type="StaticBody2D" parent="SolidCollisions" unique_id=378541933]
